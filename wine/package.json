@@ -1,0 +1,124 @@
+{
+  "name": "ricwiz",
+  "displayName": "Ricwiz Branch Helper",
+  "description": "Helps create branches for ticket development",
+  "icon": "resources/logo.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+  "contributes": {
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "ricwiz-sidebar",
+          "title": "Ricwiz",
+          "icon": "resources/ricwiz.svg"
+        }
+      ]
+    },
+    "views": {
+      "ricwiz-sidebar": [
+        {
+          "type": "webview",
+          "id": "ricwiz-webview",
+          "name": "Operations"
+        }
+      ]
+    },
+    "commands": [
+      {
+        "command": "ricwiz.createBranches",
+        "title": "Ricwiz: Create Ticket Branches"
+      },
+      {
+        "command": "ricwiz.prepareDeploy",
+        "title": "Ricwiz: Prepare Deploy (Merge to Environments)"
+      },
+      {
+        "command": "ricwiz.createMergeRequests",
+        "title": "Ricwiz: Open Merge Requests in Browser"
+      },
+      {
+        "command": "ricwiz.openJiraTicket",
+        "title": "Ricwiz: Open Jira Ticket"
+      },
+      {
+        "command": "ricwiz.openSettings",
+        "title": "Ricwiz: Open Settings"
+      }
+    ],
+    "configuration": {
+      "title": "Ricwiz Branch Helper",
+      "properties": {
+        "ricwiz.jiraUrl": {
+          "type": "string",
+          "default": "",
+          "description": "Base URL for Jira tickets (e.g., https://jira.company.com/browse/). Leave empty to disable."
+        },
+        "ricwiz.ticketSourceBranch": {
+          "type": "string",
+          "default": "main",
+          "description": "The base branch from which ticket branches are created (e.g., main, develop)."
+        },
+        "ricwiz.gitlabUrlOverride": {
+          "type": "string",
+          "default": "",
+          "description": "Base URL of the company's GitLab repository (e.g., https://gitlab.company.com/group/project). Leave empty for the extension to discover it automatically via git remote."
+        },
+        "ricwiz.ticketPrefix": {
+          "type": "string",
+          "default": "SFPSCA-",
+          "description": "Prefix used for branch creation."
+        },
+        "ricwiz.environments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "sourceBranch": {
+                "type": "string"
+              }
+            }
+          },
+          "default": [
+            {
+              "name": "Qual",
+              "sourceBranch": "quality"
+            },
+            {
+              "name": "Val",
+              "sourceBranch": "validation"
+            },
+            {
+              "name": "Prod",
+              "sourceBranch": "main"
+            }
+          ],
+          "description": "Environments to which deploy branches will be created, defining the source branch as well."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.130",
+    "@types/vscode": "^1.80.0",
+    "typescript": "^5.1.3"
+  }
+}
