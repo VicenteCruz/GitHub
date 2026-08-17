@@ -1,0 +1,6823 @@
+[
+  {
+    "id": "FS_ARU208_023968",
+    "date": "2025-07-06T19:56:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 35.67,
+    "totalDiscounts": 16.2,
+    "subtotal": 42.87,
+    "items": [
+      {
+        "name": "PENSO DIARIO CAREFREE ALOE 56UN",
+        "category": "Higiene",
+        "price": 4.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA COLG PERIOGARD GEN B 75ML",
+        "category": "Higiene",
+        "price": 4.19,
+        "discount": 1.4,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI AVELA C/RECHEIO CHOC.CNT",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 1.65,
+        "quantity": 1
+      },
+      {
+        "name": "PROT SOL FLU SPF 50 GLOW ROST",
+        "category": "Beleza",
+        "price": 4.99,
+        "discount": 2.5,
+        "quantity": 1
+      },
+      {
+        "name": "BIFE BEIJINHO ANGUS SKP",
+        "category": "Talho",
+        "price": 8.98,
+        "discount": 4.49,
+        "quantity": 2
+      },
+      {
+        "name": "ALHEIRA SIGNATURE CNT SELECAO 1",
+        "category": "Charcutaria&Queijos",
+        "price": 1.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA A NOSSA QUEIJARI",
+        "category": "Charcutaria&Queijos",
+        "price": 2.58,
+        "discount": 1.29,
+        "quantity": 2
+      },
+      {
+        "name": "VB PERA DOCE REG. ALENT 75 CL",
+        "category": "Vinho e Espirituosas",
+        "price": 5.98,
+        "discount": 7.4,
+        "quantity": 2
+      },
+      {
+        "name": "VT PERA DOCE REG ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 5.98,
+        "discount": 7.4,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU215_084173",
+    "date": "2025-07-13T18:51:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 35.01,
+    "totalDiscounts": 6.56,
+    "subtotal": 38.01,
+    "items": [
+      {
+        "name": "ATUM OLEO BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 2.58,
+        "discount": 0.86,
+        "quantity": 2
+      },
+      {
+        "name": "BATATA DOCE FRITA CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CERV.C/ALC.SUPER BOCK TP 24*20",
+        "category": "Soft Drinks",
+        "price": 9.99,
+        "discount": 5,
+        "quantity": 1
+      },
+      {
+        "name": "AG.C/G.NAT.FRIZE TP LIM.4*25CL",
+        "category": "Soft Drinks",
+        "price": 2.09,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "ACAI ZERO NATIVE ACAI 480ML",
+        "category": "Congelados",
+        "price": 6.34,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI MARACUJA CONTINENTE 6UN",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA MINI GALBANI 150",
+        "category": "Charcutaria&Queijos",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ASAS FRANGO ASSADAS KG",
+        "category": "Take Away",
+        "price": 3.23,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ASAS FRANGO ASSADAS KG",
+        "category": "Take Away",
+        "price": 3.23,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GASPACHO CNT 1LT",
+        "category": "Take Away",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU989_076394",
+    "date": "2025-07-14T19:29:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 7.38,
+    "totalDiscounts": 2.3,
+    "subtotal": 7.38,
+    "items": [
+      {
+        "name": "QJ. RALADO MOZZARELLA CAMPAINHA",
+        "category": "Charcutaria&Queijos",
+        "price": 1.69,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "MOZZARELA GRANAROLO 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHUCHA CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 1.01,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB FIUZA 3 CASTAS REG TEJO 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 2.99,
+        "discount": 2,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU209_033305",
+    "date": "2025-07-19T19:41:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 30.36,
+    "totalDiscounts": 1.5,
+    "subtotal": 30.359999999999996,
+    "items": [
+      {
+        "name": "BATATA DOCE FRITA CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 3.38,
+        "discount": 0.85,
+        "quantity": 2
+      },
+      {
+        "name": "MOLHO COCKTAIL TOP D HEINZ 220L",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS C.COLA LATA SLEEK33CL",
+        "category": "Soft Drinks",
+        "price": 0.9,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/GAS PEDRAS LIMAO PET 1L",
+        "category": "Soft Drinks",
+        "price": 2.98,
+        "discount": 1,
+        "quantity": 2
+      },
+      {
+        "name": "GEL BANHO COCO 500 ML",
+        "category": "Higiene",
+        "price": 1.99,
+        "discount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "GELADO CARAMELT DOWN CNT 500ML",
+        "category": "Congelados",
+        "price": 3.49,
+        "discount": 1.75,
+        "quantity": 1
+      },
+      {
+        "name": "FARINHA MILHO S/F ESPIGA 500G",
+        "category": "Bens Essenciais",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TAPIOCA HIDRATADA CNT 500G",
+        "category": "Bens Essenciais",
+        "price": 2.99,
+        "discount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAMENGO CNT FATIAS 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.78,
+        "discount": 0.95,
+        "quantity": 2
+      },
+      {
+        "name": "FIAMBRE PA FAT CNT 2X200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.09,
+        "discount": 0.78,
+        "quantity": 1
+      },
+      {
+        "name": "PRESUNTO FAT 7M CNT 150G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.49,
+        "discount": 0.62,
+        "quantity": 1
+      },
+      {
+        "name": "TREMOCO CONTINENTE 350G",
+        "category": "Frutas e Legumes",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FT_ARU989_011597",
+    "date": "2025-08-12T19:04:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 115.74,
+    "totalDiscounts": 19.46,
+    "subtotal": 118.74,
+    "items": [
+      {
+        "name": "POLPA TOM.CEB./ALHO GULOSO 500G",
+        "category": "Mercearia Salgada",
+        "price": 3.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "POLPA GULOSO MANJ 500G",
+        "category": "Mercearia Salgada",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MILHO DOCE CONTINENTE 285G",
+        "category": "Mercearia Salgada",
+        "price": 1.15,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATA DOCE FRITA CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 3.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BAT. F. LISA GOUR. CNT 170G",
+        "category": "Mercearia Salgada",
+        "price": 4.35,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "BAT FRIT LISA CAMPONESA LAY S 1",
+        "category": "Mercearia Salgada",
+        "price": 2.78,
+        "discount": 0.4,
+        "quantity": 2
+      },
+      {
+        "name": "BOL CONTINENTE C/PEPI CHOC 150G",
+        "category": "Mercearia Doce",
+        "price": 2.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BOLACHA CONTINENTE BELGAS 500G",
+        "category": "Mercearia Doce",
+        "price": 3.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TORT. MILHO CNT EQ. C/SAL 130G",
+        "category": "Mercearia Doce",
+        "price": 0.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MARINHEIRAS C/ CHIA CNT 180G",
+        "category": "Mercearia Doce",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CERV C/ALC SUPERB TP 35X20CL",
+        "category": "Soft Drinks",
+        "price": 13.99,
+        "discount": 14,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 0.83,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "MANTEIGA C/SAL MILHAFRE 250G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.19,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO CLASSE M 1DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA LINGUINE LA MOLISANA 500G",
+        "category": "Bens Essenciais",
+        "price": 3.26,
+        "discount": 1.06,
+        "quantity": 2
+      },
+      {
+        "name": "VITELAO PA/ACEM AT",
+        "category": "Talho",
+        "price": 5.71,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VITELAO PA/ACEM AT",
+        "category": "Talho",
+        "price": 5.61,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VITELAO PA/ACEM AT",
+        "category": "Talho",
+        "price": 5.61,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VITELAO PA/ACEM AT",
+        "category": "Talho",
+        "price": 14.32,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEITO DE FRANGO COMPRA/AT",
+        "category": "Talho",
+        "price": 7.85,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CAFE SOLUVEL DELTA INTENSO FRAS",
+        "category": "Pequeno Almoco",
+        "price": 3.69,
+        "discount": 2.1,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA",
+        "category": "Frutas e Legumes",
+        "price": 2.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CACHO",
+        "category": "Frutas e Legumes",
+        "price": 3.13,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ALFACE FRISADA",
+        "category": "Frutas e Legumes",
+        "price": 1.47,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ALHO SECO KG",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NECTARINA",
+        "category": "Frutas e Legumes",
+        "price": 4.14,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CEBOLA R0 EMB. 1.5KG",
+        "category": "Frutas e Legumes",
+        "price": 2.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AMENDOIM C/CASCA TORRADO CNT EM",
+        "category": "Frutas e Legumes",
+        "price": 3.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BROA MILHO DOCE 400G",
+        "category": "Padaria",
+        "price": 1.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO FORMA FAMILIAR BIMBO 640G",
+        "category": "Padaria",
+        "price": 1.99,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "PAO HAMB. MAXI BURGER BIMBO 300",
+        "category": "Padaria",
+        "price": 3.38,
+        "discount": 0.6,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU211_055321",
+    "date": "2025-08-12T19:23:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 21.64,
+    "totalDiscounts": 0.16,
+    "subtotal": 21.639999999999997,
+    "items": [
+      {
+        "name": "BAT FRIT EXTRA OND CHILI L. CNT",
+        "category": "Mercearia Salgada",
+        "price": 1.49,
+        "discount": 0.75,
+        "quantity": 1
+      },
+      {
+        "name": "ALMONDEGAS NOV. ANGUS",
+        "category": "Talho",
+        "price": 2.78,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUEIJO EMMENTAL BLOCO ENTREMONT",
+        "category": "Charcutaria&Queijos",
+        "price": 4.11,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FIAMBRE PERNA FF ECO NOBRE 100G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.39,
+        "discount": 0.35,
+        "quantity": 1
+      },
+      {
+        "name": "FIAMBRE PERNA EXT FAT NOBRE 220",
+        "category": "Charcutaria&Queijos",
+        "price": 3.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "QJ CHEDDAR FATIAS CNT 150G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.41,
+        "discount": 0.16,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAMENGO CONTINENTE FATIAS E",
+        "category": "Charcutaria&Queijos",
+        "price": 4.98,
+        "discount": 2.49,
+        "quantity": 2
+      },
+      {
+        "name": "QJ FLAMENGO RALADO CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.49,
+        "discount": 0.37,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB313_060603",
+    "date": "2025-08-17T21:15:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 38.16,
+    "totalDiscounts": 17.83,
+    "subtotal": 49.62,
+    "items": [
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 3.32,
+        "discount": 2,
+        "quantity": 4
+      },
+      {
+        "name": "AGUA GASEIF CONTINENTE 1,5LT",
+        "category": "Soft Drinks",
+        "price": 0.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/ GAS SUAVE CONTINENTE",
+        "category": "Soft Drinks",
+        "price": 0.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ESCOVA PDX EXPERT CLEAN SUAVE",
+        "category": "Higiene",
+        "price": 9.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "PAST LIMP PROTESE BONYPLUS",
+        "category": "Higiene",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GELADO OHYMOO CARAMEL BROWNIE",
+        "category": "Congelados",
+        "price": 2.96,
+        "discount": 0.53,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEITO DE FRANGO COMPRA/AT",
+        "category": "Talho",
+        "price": 3.56,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA",
+        "category": "Frutas e Legumes",
+        "price": 0.84,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COUVE FLOR CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 3.47,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MACA GALA",
+        "category": "Frutas e Legumes",
+        "price": 3.08,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATA ESPECIAL ASSAR SC 1KG",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VT MONTE VELHO REG ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 3.48,
+        "discount": 0.9,
+        "quantity": 2
+      },
+      {
+        "name": "VB COUTADA VEL",
+        "category": "Vinho e Espirituosas",
+        "price": 6.59,
+        "discount": 12.4,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FT_AAB305_002057",
+    "date": "2025-09-03T20:57:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 114.66,
+    "totalDiscounts": 33.91,
+    "subtotal": 115.62,
+    "items": [
+      {
+        "name": "TEMPERO SUMO LIMAO CNT 200ML",
+        "category": "Mercearia Salgada",
+        "price": 0.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATA DOCE FRITA CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOL. CHOCO C/ RECH. CH. CNT 500",
+        "category": "Mercearia Doce",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOLACHA RECH CHOCO CNT 500G",
+        "category": "Mercearia Doce",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CERV C/ALC LATA SUPERB 24X50CL",
+        "category": "Soft Drinks",
+        "price": 20.4,
+        "discount": 15.36,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 1.66,
+        "discount": 1,
+        "quantity": 2
+      },
+      {
+        "name": "SPRAY VITRO MISTOLIN 500ML",
+        "category": "Limpeza do Lar",
+        "price": 2.99,
+        "discount": 3.05,
+        "quantity": 1
+      },
+      {
+        "name": "DET MAN LOICA FAIRY LIMAO 2X900",
+        "category": "Limpeza do Lar",
+        "price": 6.99,
+        "discount": 4.4399999999999995,
+        "quantity": 1
+      },
+      {
+        "name": "DET GEL MAQ FINISH 0% 60D",
+        "category": "Limpeza do Lar",
+        "price": 9.99,
+        "discount": 13.5,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.37,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "PEITO FRANGO CAMPO SELECCAO LS",
+        "category": "Talho",
+        "price": 3.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEITO FRANGO CAMPO SELECCAO LS",
+        "category": "Talho",
+        "price": 4.71,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NOV. BIFE ACEM",
+        "category": "Talho",
+        "price": 15.07,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAM T.NOST FAT2*200GR",
+        "category": "Charcutaria&Queijos",
+        "price": 4.19,
+        "discount": 0.8,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO PIZZA -30% GORDURA CN",
+        "category": "Charcutaria&Queijos",
+        "price": 2.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "REQUEIJAO NATURAL SALOIO 170GR",
+        "category": "Charcutaria&Queijos",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA MINI GALBANI 150",
+        "category": "Charcutaria&Queijos",
+        "price": 5.38,
+        "discount": 0.6,
+        "quantity": 2
+      },
+      {
+        "name": "CLEMENTINA",
+        "category": "Frutas e Legumes",
+        "price": 2.63,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CURGETE VERDE",
+        "category": "Frutas e Legumes",
+        "price": 0.82,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COUVE BROCOLO",
+        "category": "Frutas e Legumes",
+        "price": 1.63,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LIMAO",
+        "category": "Frutas e Legumes",
+        "price": 0.82,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 0.97,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PERA PACKAMS",
+        "category": "Frutas e Legumes",
+        "price": 0.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATA ESPECIAL COZER SC 3KG",
+        "category": "Frutas e Legumes",
+        "price": 3.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "CAJU C/SAL CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 2.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.14,
+        "discount": 0.55,
+        "quantity": 1
+      },
+      {
+        "name": "VB PLANALTO RES DOC DOU 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 5.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CJ4 FORMAS KASA RET 22.3X10.8CM",
+        "category": "Casa-Mesa/Mobiliario",
+        "price": 3,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU034_101967",
+    "date": "2025-09-06T16:21:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 0.89,
+    "totalDiscounts": 26.99,
+    "subtotal": 0.89,
+    "items": [
+      {
+        "name": "AGUA S/ GAS SOLAN CABRAS 0,5L",
+        "category": "Soft Drinks",
+        "price": 0.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CAIXA FRIGORIFICO 900ML 0+25S",
+        "category": "Brand Marketing",
+        "price": 0,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_GKK005_210928",
+    "date": "2025-09-14T20:10:00",
+    "store": "Continente CBD ALCANTARILHA",
+    "totalPaid": 16.62,
+    "totalDiscounts": 4.98,
+    "subtotal": 16.62,
+    "items": [
+      {
+        "name": "ATUM ACORES POSTA NAT. CNT SEL",
+        "category": "Mercearia Salgada",
+        "price": 2.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "SIDRA SOMERSBY LATA 50CL",
+        "category": "Soft Drinks",
+        "price": 2.58,
+        "discount": 0.72,
+        "quantity": 2
+      },
+      {
+        "name": "ROLO COZINHA COLHOGAR ADAPT 3=4",
+        "category": "Limpeza do Lar",
+        "price": 2.69,
+        "discount": 2.1,
+        "quantity": 1
+      },
+      {
+        "name": "CR.FRUCTIS TRAT.H.CARACOIS 200",
+        "category": "Beleza",
+        "price": 3.49,
+        "discount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "QUINOA CONTINENTE BIO 500G",
+        "category": "Bens Essenciais",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA COUSCOUS GAROFALO 1KG",
+        "category": "Bens Essenciais",
+        "price": 2.49,
+        "discount": 0.66,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_123818",
+    "date": "2025-09-20T19:39:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 65.78,
+    "totalDiscounts": 10.83,
+    "subtotal": 65.78,
+    "items": [
+      {
+        "name": "FOLHAS ALGAS BLUE DRAGON 11G",
+        "category": "Mercearia Salgada",
+        "price": 3.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ATUM OLEO BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 2.58,
+        "discount": 0.86,
+        "quantity": 2
+      },
+      {
+        "name": "MISTURA ERVAS ITALIANAS MARGAO",
+        "category": "Mercearia Salgada",
+        "price": 1.75,
+        "discount": 0.59,
+        "quantity": 1
+      },
+      {
+        "name": "SALS FKF ORIG NOBRE LTA 6 120G",
+        "category": "Mercearia Salgada",
+        "price": 4.47,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "FLOR DE SAL MARNOTO 250G",
+        "category": "Mercearia Salgada",
+        "price": 1.84,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA WASABI MIYATA 43G",
+        "category": "Mercearia Salgada",
+        "price": 2.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOLHO COCKTAIL TOP D HEINZ 220L",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 6*1.5L",
+        "category": "Soft Drinks",
+        "price": 1.68,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZEITE VIRGEM CONTINENTE 0.75L",
+        "category": "Bens Essenciais",
+        "price": 3.99,
+        "discount": 0.4,
+        "quantity": 1
+      },
+      {
+        "name": "LOMBOS SALMAO CNT 2*125G",
+        "category": "Peixaria",
+        "price": 11.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QJ FLAM T.NOST FATIAS EMB",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA LIGHT CONTINENTE",
+        "category": "Charcutaria&Queijos",
+        "price": 1.05,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FIAMBRE PERNA EXT FINISSIMAS CN",
+        "category": "Charcutaria&Queijos",
+        "price": 1.85,
+        "discount": 0.14,
+        "quantity": 1
+      },
+      {
+        "name": "REQUEIJAO NATURAL SALOIO 170GR",
+        "category": "Charcutaria&Queijos",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO REGULAR PHILADELP",
+        "category": "Charcutaria&Queijos",
+        "price": 3.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "(SZ) MOZZ INFUSAO MANJERICAO GA",
+        "category": "Charcutaria&Queijos",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FUET ESPETEC NOEL UN",
+        "category": "Charcutaria&Queijos",
+        "price": 3.15,
+        "discount": 0.44,
+        "quantity": 1
+      },
+      {
+        "name": "PEPINO CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 1.79,
+        "discount": 0.32,
+        "quantity": 1
+      },
+      {
+        "name": "MACA CANDINE",
+        "category": "Frutas e Legumes",
+        "price": 1.64,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PESSEGO VERMELHO",
+        "category": "Frutas e Legumes",
+        "price": 2.18,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AMENDOIM C/MEL E SAL CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.35,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CENOURA CNT EMB.1KG",
+        "category": "Frutas e Legumes",
+        "price": 1.05,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB PERA DOCE REG. ALENT 75 CL",
+        "category": "Vinho e Espirituosas",
+        "price": 5.3,
+        "discount": 8.08,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU989_085621",
+    "date": "2025-09-28T19:45:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 21.43,
+    "totalDiscounts": 1.44,
+    "subtotal": 28.01,
+    "items": [
+      {
+        "name": "SAL SALDORO SAL-GEMA ROSA 450G",
+        "category": "Mercearia Salgada",
+        "price": 2.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ATUM AZEITE BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 3.1,
+        "discount": 1.38,
+        "quantity": 2
+      },
+      {
+        "name": "SEGREDOS BIFES MARGAO FRS 46G",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ESPARREGO CNT 350G",
+        "category": "Congelados",
+        "price": 2.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BEB ARROZ CONT BIO 1L",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "PORCO BIFANAS - LS",
+        "category": "Talho",
+        "price": 3.04,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALSICHAO BIPACK COSTA BRAVA 2X",
+        "category": "Charcutaria&Queijos",
+        "price": 2.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "SEMENTES ABOBO  200G-PT-BIO-03",
+        "category": "Frutas e Legumes",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEMENTES GIRAS 200G-PT-BIO-03",
+        "category": "Frutas e Legumes",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY TRIMIX 250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CENOURA CNT EMB.1KG",
+        "category": "Frutas e Legumes",
+        "price": 0.99,
+        "discount": 0.06,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU212_074730",
+    "date": "2025-10-01T13:21:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 7.89,
+    "totalDiscounts": 1.5,
+    "subtotal": 8.5,
+    "items": [
+      {
+        "name": "MOLHO PESTO CONTINENTE 190G",
+        "category": "Mercearia Salgada",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA POLIDENT OXIG ACTIVO 48UN",
+        "category": "Higiene",
+        "price": 4.49,
+        "discount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "BEB SOJA CONT BIO 1L",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 0.94,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BEB DE AVEIA CONT BIO 1L",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.18,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU212_074731",
+    "date": "2025-10-01T13:23:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 11.85,
+    "totalDiscounts": 5.9399999999999995,
+    "subtotal": 11.850000000000001,
+    "items": [
+      {
+        "name": "SNACK BOLAS DE QUEIJO CNT 130G",
+        "category": "Mercearia Salgada",
+        "price": 1.29,
+        "discount": 0.65,
+        "quantity": 1
+      },
+      {
+        "name": "MINI PAES COM CHOURICO CNT 4UN",
+        "category": "Congelados",
+        "price": 2.99,
+        "discount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "CHICKEN WINGS CONTINENTE 600G",
+        "category": "Congelados",
+        "price": 4.59,
+        "discount": 2.3,
+        "quantity": 1
+      },
+      {
+        "name": "SALSICHAO BIPACK COSTA BRAVA 2X",
+        "category": "Charcutaria&Queijos",
+        "price": 2.98,
+        "discount": 1.49,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU214_093919",
+    "date": "2025-10-02T21:17:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 4.16,
+    "totalDiscounts": 9.41,
+    "subtotal": 10.95,
+    "items": [
+      {
+        "name": "COMBINADO APER. SALG. CNT 200G",
+        "category": "Mercearia Salgada",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAST SENSOD SENS GENG E ESMALTE",
+        "category": "Higiene",
+        "price": 3.96,
+        "discount": 1.33,
+        "quantity": 1
+      },
+      {
+        "name": "VT PERA DOCE REG ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 5.3,
+        "discount": 8.08,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU225_093947",
+    "date": "2025-10-04T18:20:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 15.95,
+    "totalDiscounts": 17.1,
+    "subtotal": 17.05,
+    "items": [
+      {
+        "name": "GEL HAAGEN DAZS PRALINES&CREAM",
+        "category": "Congelados",
+        "price": 5.79,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "VT TAPADA DAS LEBRES SIGN REG A",
+        "category": "Vinho e Espirituosas",
+        "price": 4.99,
+        "discount": 12,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 3.28,
+        "discount": 1.1,
+        "quantity": 2
+      },
+      {
+        "name": "VT FIUZA 3 CASTAS REG TEJO 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 2.99,
+        "discount": 2,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU214_094916",
+    "date": "2025-10-07T19:34:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 7.66,
+    "totalDiscounts": 0,
+    "subtotal": 9.37,
+    "items": [
+      {
+        "name": "ABACATE HASS PRONTO A COMER",
+        "category": "Frutas e Legumes",
+        "price": 3.08,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LIMAO",
+        "category": "Frutas e Legumes",
+        "price": 0.36,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.46,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CEBOLA CHALOTA CNT EMB.250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COENTROS BIO VASO",
+        "category": "Frutas e Legumes",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG FLORETTE 250G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FT_AAB322_033242",
+    "date": "2025-10-19T19:35:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 63.77,
+    "totalDiscounts": 7.03,
+    "subtotal": 64.71,
+    "items": [
+      {
+        "name": "MOLHO TERIYAKI BLUE DRAGON 190",
+        "category": "Mercearia Salgada",
+        "price": 4.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEGREDOS TOMILHO E LIMAO MARGAO",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIPOCAS P/MICRO.MANT. CNT 3*90G",
+        "category": "Mercearia Salgada",
+        "price": 1.35,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/GAS PEDRAS SALGADAS 6X1L",
+        "category": "Soft Drinks",
+        "price": 4.98,
+        "discount": 3,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/GAS PEDRAS LIMAO PET 1L",
+        "category": "Soft Drinks",
+        "price": 4.47,
+        "discount": 1.5,
+        "quantity": 3
+      },
+      {
+        "name": "L TUDO AJAX BOOST VNG & LAV 1L",
+        "category": "Limpeza do Lar",
+        "price": 1.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS AR LIVRE M/L CNT 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 4.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.16,
+        "discount": 0,
+        "quantity": 4
+      },
+      {
+        "name": "MASSA PEN.RIGATE LA MOLISANA500",
+        "category": "Bens Essenciais",
+        "price": 1.63,
+        "discount": 0.53,
+        "quantity": 1
+      },
+      {
+        "name": "PEITO DE FRANGO COMPRA/AT",
+        "category": "Talho",
+        "price": 3.25,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEITO DE FRANGO COMPRA/AT",
+        "category": "Talho",
+        "price": 3.04,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MEL DE FLORES TOP DOWN CNT 500G",
+        "category": "Pequeno Almoco",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GRANOLA SALUTE AVELA PISTACIO 3",
+        "category": "Pequeno Almoco",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COUVE BROCOLO",
+        "category": "Frutas e Legumes",
+        "price": 3.33,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LIMAO",
+        "category": "Frutas e Legumes",
+        "price": 0.36,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.26,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LARANJA KG",
+        "category": "Frutas e Legumes",
+        "price": 1.17,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEMENTES SESAMO CNT BIO 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY TRIMIX 250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CEBOLA R0 EMB. 1.5KG",
+        "category": "Frutas e Legumes",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEMENTES LINHACA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SULTANA CLARA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PISTACHIO TORRADO SEM SAL 200G",
+        "category": "Frutas e Legumes",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AMENDOIM C/CASCA TORRADO CNT EM",
+        "category": "Frutas e Legumes",
+        "price": 3.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEMENTES GIRASSOL CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.25,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_129815",
+    "date": "2025-10-25T18:55:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 29.97,
+    "totalDiscounts": 7.7,
+    "subtotal": 36.45,
+    "items": [
+      {
+        "name": "SNAC BOL KRIT KRIT CUETARA 350G",
+        "category": "Mercearia Salgada",
+        "price": 2.19,
+        "discount": 0.75,
+        "quantity": 1
+      },
+      {
+        "name": "MOLHO BURGER TOP DOWN CALVE 260",
+        "category": "Mercearia Salgada",
+        "price": 1.94,
+        "discount": 1.05,
+        "quantity": 1
+      },
+      {
+        "name": "MAION DELICIOSA HEINZ TOP DOWN",
+        "category": "Mercearia Salgada",
+        "price": 2.64,
+        "discount": 1.15,
+        "quantity": 1
+      },
+      {
+        "name": "BOLACHA OREO TUBO 154G",
+        "category": "Mercearia Doce",
+        "price": 1.49,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "GOMAS HARIBO OSITOS DE ORO 250G",
+        "category": "Mercearia Doce",
+        "price": 1.94,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS COCA COLA 1L",
+        "category": "Soft Drinks",
+        "price": 3,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "GEL HAAGEN DAZS PRALINES&CREAM",
+        "category": "Congelados",
+        "price": 5.79,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAM T.NOST FAT2*200GR",
+        "category": "Charcutaria&Queijos",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 4.92,
+        "discount": 1.65,
+        "quantity": 3
+      },
+      {
+        "name": "RISSOL LEITAO UN",
+        "category": "Take Away",
+        "price": 2.67,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "CREME DE LEGUMES S/BAT 800G",
+        "category": "Take Away",
+        "price": 2.89,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB318_184907",
+    "date": "2025-11-02T18:58:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 66.08,
+    "totalDiscounts": 23.47,
+    "subtotal": 66.08,
+    "items": [
+      {
+        "name": "ATUM OLEO BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 6.45,
+        "discount": 2.15,
+        "quantity": 5
+      },
+      {
+        "name": "TEMPERO SUMO LIMAO CNT 200ML",
+        "category": "Mercearia Salgada",
+        "price": 0.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CR.VINA.BALS.GLAZE MONAR 300G",
+        "category": "Mercearia Salgada",
+        "price": 3.74,
+        "discount": 1.25,
+        "quantity": 1
+      },
+      {
+        "name": "BOL CONTINENTE C/PEPI CHOC 150G",
+        "category": "Mercearia Doce",
+        "price": 1.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOL. CHOCO C/ RECH. CH. CNT 500",
+        "category": "Mercearia Doce",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF C/ GAS LIM LIMA 7UP ZERO 1L",
+        "category": "Soft Drinks",
+        "price": 0.99,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "SIDRA SOMERSBY LATA 50CL",
+        "category": "Soft Drinks",
+        "price": 5.16,
+        "discount": 1.44,
+        "quantity": 4
+      },
+      {
+        "name": "SKIP LIQUIDO ACTIVE CLEAN 76D",
+        "category": "Limpeza do Lar",
+        "price": 11.99,
+        "discount": 14,
+        "quantity": 1
+      },
+      {
+        "name": "PAO D/QUEIJO CONTINENTE 300G 12",
+        "category": "Congelados",
+        "price": 2.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FILETES PESCADA PANADOS CNT 600",
+        "category": "Congelados",
+        "price": 4.69,
+        "discount": 2.35,
+        "quantity": 1
+      },
+      {
+        "name": "LEITE UHT MAGRO MATINAL SEL 1L",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1,
+        "discount": 0.14,
+        "quantity": 1
+      },
+      {
+        "name": "ARROZ RISOTTO CACAROLA 500G",
+        "category": "Bens Essenciais",
+        "price": 1.36,
+        "discount": 0.34,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA PEN.RIGATE LA MOLISANA500",
+        "category": "Bens Essenciais",
+        "price": 1.63,
+        "discount": 0.53,
+        "quantity": 1
+      },
+      {
+        "name": "COUSCOUS LA MOLISANA 1KG",
+        "category": "Bens Essenciais",
+        "price": 2.59,
+        "discount": 0.67,
+        "quantity": 1
+      },
+      {
+        "name": "FIAMBRE PERNA EXT FINISSIMAS CN",
+        "category": "Charcutaria&Queijos",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO PIZZA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 4.17,
+        "discount": 1.2,
+        "quantity": 3
+      },
+      {
+        "name": "COUVE BROCOLO",
+        "category": "Frutas e Legumes",
+        "price": 1.47,
+        "discount": 0.9,
+        "quantity": 1
+      },
+      {
+        "name": "COUVE FLOR CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 2.48,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.12,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MACA CANDINE",
+        "category": "Frutas e Legumes",
+        "price": 0.73,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE MINI CHUCHA SWEET SC 200",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY ALONGADO 250G",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.14,
+        "discount": 0.55,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_132024",
+    "date": "2025-11-08T19:21:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 43.81,
+    "totalDiscounts": 8.14,
+    "subtotal": 43.81000000000001,
+    "items": [
+      {
+        "name": "MILHO DOCE CONTINENTE 3*140G",
+        "category": "Mercearia Salgada",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SOBA NOODLES CLASSICO NISSIN 10",
+        "category": "Mercearia Salgada",
+        "price": 1.25,
+        "discount": 0.54,
+        "quantity": 1
+      },
+      {
+        "name": "NOODLESC YAKISO MAGGI CLASSIC",
+        "category": "Mercearia Salgada",
+        "price": 2.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS COCA COLA 1L",
+        "category": "Soft Drinks",
+        "price": 1.35,
+        "discount": 0.15,
+        "quantity": 1
+      },
+      {
+        "name": "TOALHITAS LIMP DE CHA0 CNT 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LIXI.DENSO-PERF.NEOBLANC AZU 1L",
+        "category": "Limpeza do Lar",
+        "price": 1.69,
+        "discount": 0.35,
+        "quantity": 1
+      },
+      {
+        "name": "GYOSAS DE FRANGO E COGUM CNT",
+        "category": "Congelados",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 5.37,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "GRANOLA SALUTE AVELA PISTACIO 3",
+        "category": "Pequeno Almoco",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY SWEET SC 250GR",
+        "category": "Frutas e Legumes",
+        "price": 2.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COGUMELO MARRON CNT 300G",
+        "category": "Frutas e Legumes",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG FLORETTE 250G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MIX MINI PIMENTOS EMB. 200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VT PERA DOCE RES REG ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 3.49,
+        "discount": 6.5,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 4.38,
+        "discount": 0,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_132025",
+    "date": "2025-11-08T19:25:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 4.99,
+    "totalDiscounts": 2.5,
+    "subtotal": 4.99,
+    "items": [
+      {
+        "name": "SPAGUETTI BOLOGNESE CNT 600G",
+        "category": "Congelados",
+        "price": 4.99,
+        "discount": 2.5,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB310_189688",
+    "date": "2025-11-22T21:46:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 15.4,
+    "totalDiscounts": 5.57,
+    "subtotal": 15.4,
+    "items": [
+      {
+        "name": "PAO D/QUEIJO CONTINENTE 300G 12",
+        "category": "Congelados",
+        "price": 2.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PENNE ALLA VODKA CNT 600G",
+        "category": "Congelados",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA AL PESTO ROSSO CNT 600G",
+        "category": "Congelados",
+        "price": 4.99,
+        "discount": 2.5,
+        "quantity": 1
+      },
+      {
+        "name": "MANT C/SAL ACOR CONTINENTE 250G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.14,
+        "discount": 1.07,
+        "quantity": 1
+      },
+      {
+        "name": "BOLINHAS ALHEIRA AVES CNT 8X25G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_134524",
+    "date": "2025-11-23T18:17:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 56.15,
+    "totalDiscounts": 25.71,
+    "subtotal": 56.15000000000001,
+    "items": [
+      {
+        "name": "ALHO MOIDO MARGAO FRASCO 55G",
+        "category": "Mercearia Salgada",
+        "price": 2.24,
+        "discount": 0.75,
+        "quantity": 1
+      },
+      {
+        "name": "POLPA TOMATE CNT TETRA 3X210G",
+        "category": "Mercearia Salgada",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TAB CNT CHOCOLATE NEGRO 200G",
+        "category": "Mercearia Doce",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 6*1.5L",
+        "category": "Soft Drinks",
+        "price": 1.68,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "DERMODINE CNT 125ML",
+        "category": "Higiene",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAST LIMP PROT",
+        "category": "Higiene",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA 0,85KG",
+        "category": "Limpeza do Lar",
+        "price": 3.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SACOS LIXO CNT LAV 30L 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SACOS LIXO CNT MOR 30L 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ROLO COZ CNT COMPACTO 2=4 2F",
+        "category": "Limpeza do Lar",
+        "price": 2.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MOLICO 380G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 6.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZ VE OLIVE SERRA SEL PET750ML",
+        "category": "Bens Essenciais",
+        "price": 9.38,
+        "discount": 22.4,
+        "quantity": 2
+      },
+      {
+        "name": "MASSA COUSCOUS GAROFALO 1KG",
+        "category": "Bens Essenciais",
+        "price": 2.49,
+        "discount": 0.66,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAM T.NOST FATIAS EMB",
+        "category": "Charcutaria&Queijos",
+        "price": 2.09,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO PIZZA CNT 2X200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 4.17,
+        "discount": 1.2,
+        "quantity": 3
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.36,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA AROMATICA CNT 150GR",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_135306",
+    "date": "2025-11-28T14:05:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 2.8,
+    "totalDiscounts": 2.56,
+    "subtotal": 14.12,
+    "items": [
+      {
+        "name": "CERV.C/ALC.SUPER BOCK LATA 50",
+        "category": "Soft Drinks",
+        "price": 3.4,
+        "discount": 2.56,
+        "quantity": 4
+      },
+      {
+        "name": "QUEIJO BRIE CONTINENTE 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.5,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MINI TOSTAS INTEGRAIS CONTINENT",
+        "category": "Padaria",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 4.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MASSA FOLHADA RETANG. CNT 375GR",
+        "category": "Take Away",
+        "price": 1.35,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FT_AAB324_024143",
+    "date": "2025-12-14T19:49:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 151.02,
+    "totalDiscounts": 46.93,
+    "subtotal": 151.02,
+    "items": [
+      {
+        "name": "CONCENTRADO TOMATE COMPAL 140G",
+        "category": "Mercearia Salgada",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NACHOS COM SAL CONTINENTE 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BAT. F. LISA GOUR. CNT 170G",
+        "category": "Mercearia Salgada",
+        "price": 1.45,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BAT. FR. OND. SOUR CREAM CNT",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BAT FRIT LISA CAMPONESA LAY S 1",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0.2,
+        "quantity": 1
+      },
+      {
+        "name": "MOLHO BURGER TOP DOWN CALVE 260",
+        "category": "Mercearia Salgada",
+        "price": 1.94,
+        "discount": 1.05,
+        "quantity": 1
+      },
+      {
+        "name": "MAION DELICIOSA HEINZ TOP DOWN",
+        "category": "Mercearia Salgada",
+        "price": 2.64,
+        "discount": 1.15,
+        "quantity": 1
+      },
+      {
+        "name": "BOMBONS MERCI STORCK 250G",
+        "category": "Mercearia Doce",
+        "price": 6.89,
+        "discount": 3.8,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/GAS PEDRAS LIMAO PET 1L",
+        "category": "Soft Drinks",
+        "price": 4.77,
+        "discount": 1.2,
+        "quantity": 3
+      },
+      {
+        "name": "VASELINA VASELINE ORIG 100ML",
+        "category": "Higiene",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ESCOVA PDX EXPERT CLEAN SUAVE",
+        "category": "Higiene",
+        "price": 4.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MINI ESTIMUL CONTROL FEEL XL",
+        "category": "Higiene",
+        "price": 23.99,
+        "discount": 16,
+        "quantity": 1
+      },
+      {
+        "name": "SAL MAQ LOICA FINISH 1KG",
+        "category": "Limpeza do Lar",
+        "price": 1.89,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "ENGO FAC CONTINENTE MP 750 ML",
+        "category": "Limpeza do Lar",
+        "price": 2.2,
+        "discount": 1.1,
+        "quantity": 1
+      },
+      {
+        "name": "SACOS LIXO CNT LAV 30L 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SACOS LIXO CNT MOR 30L 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ABSORVE ODORES MISTER MAGIC",
+        "category": "Limpeza do Lar",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PER LENOR UNSTOP VIOLET FR 495G",
+        "category": "Limpeza do Lar",
+        "price": 12.99,
+        "discount": 10,
+        "quantity": 1
+      },
+      {
+        "name": "LIMP.VIDROS CIF S.POWER&SHI 750",
+        "category": "Limpeza do Lar",
+        "price": 2.99,
+        "discount": 3,
+        "quantity": 1
+      },
+      {
+        "name": "PAO D/QUEIJO CONTINENTE 300G 12",
+        "category": "Congelados",
+        "price": 2.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ACAI C/GUARANA 500ML CNT BIO",
+        "category": "Congelados",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUICHE QUEIJO FIAMBRE CNT 450G",
+        "category": "Congelados",
+        "price": 4.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.37,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "CHAMPO H&S CLASSIC 2 EM 1 800ML",
+        "category": "Beleza",
+        "price": 9.96,
+        "discount": 3.33,
+        "quantity": 1
+      },
+      {
+        "name": "MASS FUSILLI BARILL TROFIE 500G",
+        "category": "Bens Essenciais",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MIOLO CAMARAO 80/100 CNT 250G",
+        "category": "Peixaria",
+        "price": 7.58,
+        "discount": 1.9,
+        "quantity": 2
+      },
+      {
+        "name": "QJ FLAM T.NOST FAT2*200GR",
+        "category": "Charcutaria&Queijos",
+        "price": 5.09,
+        "discount": 1.02,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.98,
+        "discount": 0.39,
+        "quantity": 2
+      },
+      {
+        "name": "FIAMBRE PERNA EXT FAT CNT 2X200",
+        "category": "Charcutaria&Queijos",
+        "price": 3.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY TRIMIX 250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PISTACHIO TORRADO SEM SAL 200G",
+        "category": "Frutas e Legumes",
+        "price": 2.79,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "AMENDOIM C/CASCA TORRADO CNT EM",
+        "category": "Frutas e Legumes",
+        "price": 3.98,
+        "discount": 0.99,
+        "quantity": 2
+      },
+      {
+        "name": "MINI TOSTAS INTEGRAIS CONTINENT",
+        "category": "Padaria",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VT PERA DOCE RES REG ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 3.49,
+        "discount": 6.5,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA HAVAIANA CNT 420G",
+        "category": "Take Away",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUINOA C/ LEGUMES E QUEIJO FETA",
+        "category": "Take Away",
+        "price": 3.37,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUINOA C/ LEGUMES E QUEIJO FETA",
+        "category": "Take Away",
+        "price": 3.37,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA DE DELICIAS DO MAR SNOCK",
+        "category": "Take Away",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ICM001_116206",
+    "date": "2025-12-29T20:27:00",
+    "store": "Continente",
+    "totalPaid": 81.05,
+    "totalDiscounts": 3.1,
+    "subtotal": 81.05000000000001,
+    "items": [
+      {
+        "name": "AL SECO CACHORRO MINI 4KG",
+        "category": "Petfood and Care",
+        "price": 32.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK CACHORRO HAPPY ONE PREM 1",
+        "category": "Petfood and Care",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "RESGUARDO DASHI BAMBOO PAD 60X4",
+        "category": "Petfood and Care",
+        "price": 14.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK CAO ADVANCE JUNIOR 150G",
+        "category": "Petfood and Care",
+        "price": 3.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CAMA PARIS CASTANHO 50CM",
+        "category": "Petfood and Care",
+        "price": 27.89,
+        "discount": 3.1,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB301_032495",
+    "date": "2025-12-30T20:14:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 78.07,
+    "totalDiscounts": 35.42,
+    "subtotal": 90.07,
+    "items": [
+      {
+        "name": "MOLHO TERIYAKI BLUE DRAGON 190",
+        "category": "Mercearia Salgada",
+        "price": 4.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOL.FON.WHISKY COCK.CALVE 250ML",
+        "category": "Mercearia Salgada",
+        "price": 1.94,
+        "discount": 1.05,
+        "quantity": 1
+      },
+      {
+        "name": "TORTILHAS TRIGO FAJITA CNT 320G",
+        "category": "Mercearia Salgada",
+        "price": 2.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MOLHO ALHO HEINZ TOP DOWN 220ML",
+        "category": "Mercearia Salgada",
+        "price": 1.94,
+        "discount": 1.05,
+        "quantity": 1
+      },
+      {
+        "name": "TOAL NAT 99% AGUA BIOD 3X54U",
+        "category": "Higiene",
+        "price": 3.43,
+        "discount": 2.02,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "LINGUINE BAVETTE BARILLA 500G",
+        "category": "Bens Essenciais",
+        "price": 3.28,
+        "discount": 1.1,
+        "quantity": 2
+      },
+      {
+        "name": "CAMARAO COZIDO 60/80 CONTINENTE",
+        "category": "Peixaria",
+        "price": 6.79,
+        "discount": 0.4,
+        "quantity": 1
+      },
+      {
+        "name": "QUEIJO BRIE PAYSAN BRETON KG",
+        "category": "Charcutaria&Queijos",
+        "price": 4.22,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA MINI NOSSA QUEIJA",
+        "category": "Charcutaria&Queijos",
+        "price": 5.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "ALHEIRA LAMEGO CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ ILHA RALADO CONTINENTE E",
+        "category": "Charcutaria&Queijos",
+        "price": 2.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOZZARELLA DE BUFALA DOP SELECC",
+        "category": "Charcutaria&Queijos",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO GRATINAR MIX 2QJ CNT",
+        "category": "Charcutaria&Queijos",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUEIJO RICOTTA FINETTA GALBANI",
+        "category": "Charcutaria&Queijos",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FUET ESPETEC NOEL UN",
+        "category": "Charcutaria&Queijos",
+        "price": 3.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB PERA DOCE REG. ALENT 75 CL",
+        "category": "Vinho e Espirituosas",
+        "price": 8.97,
+        "discount": 11.1,
+        "quantity": 3
+      },
+      {
+        "name": "VT PERA DOCE REG ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 11.96,
+        "discount": 14.8,
+        "quantity": 4
+      },
+      {
+        "name": "ESPUMANTE ASTI GANCIA 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 7.69,
+        "discount": 3.3,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA CARBONARA CZ CNT 440G",
+        "category": "Take Away",
+        "price": 3.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA PEPPERONI CZ CNT 430G",
+        "category": "Take Away",
+        "price": 3.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COMED CAO KARLIE INOX 450ML",
+        "category": "Petfood and Care",
+        "price": 4.69,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB315_124051",
+    "date": "2026-01-02T19:11:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 46.16,
+    "totalDiscounts": 27.65,
+    "subtotal": 55.17,
+    "items": [
+      {
+        "name": "ATUM OLEO BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 3.87,
+        "discount": 1.29,
+        "quantity": 3
+      },
+      {
+        "name": "REF.C/GAS COCA COLA 1L",
+        "category": "Soft Drinks",
+        "price": 3,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "CERV.C/ALC.SUPER BOCK LATA 50",
+        "category": "Soft Drinks",
+        "price": 5.76,
+        "discount": 4.44,
+        "quantity": 12
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 6*1.5L",
+        "category": "Soft Drinks",
+        "price": 1.68,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PH RENOVA GRAND ROYAL 32R 4F",
+        "category": "Limpeza do Lar",
+        "price": 14.79,
+        "discount": 14.79,
+        "quantity": 1
+      },
+      {
+        "name": "TOALHITAS MULTIUOSOS CNT 40UN",
+        "category": "Limpeza do Lar",
+        "price": 0.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SPRAY CIF DESINFETANTE 750ML",
+        "category": "Limpeza do Lar",
+        "price": 2.64,
+        "discount": 3.35,
+        "quantity": 1
+      },
+      {
+        "name": "QUICHE QUEIJO FIAMBRE CNT 450G",
+        "category": "Congelados",
+        "price": 4.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CAMARAO COZIDO 30/50 FRESCO",
+        "category": "Peixaria",
+        "price": 5.97,
+        "discount": 3.67,
+        "quantity": 1
+      },
+      {
+        "name": "GAMBAO SELV ARGENT 20/30 KG",
+        "category": "Peixaria",
+        "price": 7.09,
+        "discount": 2.38,
+        "quantity": 1
+      },
+      {
+        "name": "FONDUE DE QUEIJO CONTINENTE 450",
+        "category": "Charcutaria&Queijos",
+        "price": 4.99,
+        "discount": 1,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_INT205_077713",
+    "date": "2026-01-06T20:35:00",
+    "store": "Continente",
+    "totalPaid": 0.38,
+    "totalDiscounts": 0,
+    "subtotal": 0.38,
+    "items": [
+      {
+        "name": "AGUA S/GAS CONTINENTE 50CL",
+        "category": "Soft Drinks",
+        "price": 0.38,
+        "discount": 0,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU205_007872",
+    "date": "2026-01-10T17:32:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 67.14,
+    "totalDiscounts": 5.89,
+    "subtotal": 70.45,
+    "items": [
+      {
+        "name": "BATATA DOCE FRITA CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NOODLESC YAKISO MAGGI CLASSIC",
+        "category": "Mercearia Salgada",
+        "price": 4.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "NOOD YAKISOB FRANGO MAGGI 120G",
+        "category": "Mercearia Salgada",
+        "price": 2.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BAT FRITA LAY SG FINISSIMAS 170",
+        "category": "Mercearia Salgada",
+        "price": 1.59,
+        "discount": 1.1,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA POLIDENT OXIG ACTIVO 48UN",
+        "category": "Higiene",
+        "price": 5.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOAL NAT 99% AGUA BIOD 3X54U",
+        "category": "Higiene",
+        "price": 6.86,
+        "discount": 4.04,
+        "quantity": 2
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 6.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "PENNE ALLA VODKA CNT 600G",
+        "category": "Congelados",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "NATA PAST LONGA VIDA 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.69,
+        "discount": 0.61,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAMENGO RALADO CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALMAO FUMADO NORUEGA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 5.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BACON FUM MINI TIRAS CNT 2X75G",
+        "category": "Charcutaria&Queijos",
+        "price": 6.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "FUET ESPETEC NOEL UN",
+        "category": "Charcutaria&Queijos",
+        "price": 3.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COUVE FLOR CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 2.48,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 0.85,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA AROMATICA CNT 150GR",
+        "category": "Frutas e Legumes",
+        "price": 1.25,
+        "discount": 0.14,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY TRIMIX 250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZEITO PRETA DESCAROCAD OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 2.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "VB CONTEMPORAL REG.ALENT 37,5CL",
+        "category": "Vinho e Espirituosas",
+        "price": 2.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MASSA FOLHADA CNT 230GR",
+        "category": "Take Away",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB301_033030",
+    "date": "2026-01-10T18:55:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 6.48,
+    "totalDiscounts": 3.25,
+    "subtotal": 6.48,
+    "items": [
+      {
+        "name": "NUGGETS FRANGO AMERICAN ST. CNT",
+        "category": "Congelados",
+        "price": 3.49,
+        "discount": 1.75,
+        "quantity": 1
+      },
+      {
+        "name": "CHILLI VEGAN CNT400G",
+        "category": "Congelados",
+        "price": 2.99,
+        "discount": 1.5,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB301_033032",
+    "date": "2026-01-10T18:58:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 7.66,
+    "totalDiscounts": 0,
+    "subtotal": 7.66,
+    "items": [
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 0.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 6.87,
+        "discount": 0,
+        "quantity": 3
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB316_173754",
+    "date": "2026-01-18T14:42:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 24.44,
+    "totalDiscounts": 0.7,
+    "subtotal": 24.44,
+    "items": [
+      {
+        "name": "NATA PAST LONGA VIDA 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.38,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO GRATINAR MIX 2QJ CNT",
+        "category": "Charcutaria&Queijos",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CHA TETLEY MENTA 10SAQ",
+        "category": "Pequeno Almoco",
+        "price": 1.78,
+        "discount": 0.7,
+        "quantity": 2
+      },
+      {
+        "name": "BRINQ KARLIE PELUCHE COALA",
+        "category": "Petfood and Care",
+        "price": 9.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GARRAFA TERMICA 350ML ACO INOX",
+        "category": "Casa-Cozinha/Lavand",
+        "price": 10,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_143756",
+    "date": "2026-01-18T14:45:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 11.98,
+    "totalDiscounts": 5.99,
+    "subtotal": 11.98,
+    "items": [
+      {
+        "name": "FONDUE DE QUEIJO CONTINENTE 450",
+        "category": "Charcutaria&Queijos",
+        "price": 11.98,
+        "discount": 5.99,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU230_145988",
+    "date": "2026-01-18T16:22:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 27.65,
+    "totalDiscounts": 0.69,
+    "subtotal": 27.65,
+    "items": [
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COPITA PRC PRT CNT SELECAO 90G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.9,
+        "discount": 0.69,
+        "quantity": 1
+      },
+      {
+        "name": "TABUA PAIO/SALS/PALETA CNT SELE",
+        "category": "Charcutaria&Queijos",
+        "price": 5.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PRESUNTO FAT 12M CASA DO MONTE",
+        "category": "Charcutaria&Queijos",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SORTD LOMBO/CACHACO CASA DO MON",
+        "category": "Charcutaria&Queijos",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GARRAFA TRENDY RAINBOW GIFT",
+        "category": "Servicos",
+        "price": 7.99,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAL989_069219",
+    "date": "2026-01-24T20:42:00",
+    "store": "Continente Continente Vasco da",
+    "totalPaid": 3.7,
+    "totalDiscounts": 0,
+    "subtotal": 3.7,
+    "items": [
+      {
+        "name": "GOMAS VIDAL SORTIDO REGALIZ PIC",
+        "category": "Mercearia Doce",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GOMA VIDAL AMORAS ZARZA 90G",
+        "category": "Mercearia Doce",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/GAS VIMEIRO 50CL",
+        "category": "Soft Drinks",
+        "price": 0.68,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/GAS CONTINENTE 0,33CL",
+        "category": "Soft Drinks",
+        "price": 0.24,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB302_042906",
+    "date": "2026-01-31T19:19:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 10.91,
+    "totalDiscounts": 0.8,
+    "subtotal": 12.95,
+    "items": [
+      {
+        "name": "BATATA DOCE FRITA CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 3.38,
+        "discount": 0.84,
+        "quantity": 2
+      },
+      {
+        "name": "BAT. F. LISA GOUR. CNT 170G",
+        "category": "Mercearia Salgada",
+        "price": 2.9,
+        "discount": 0.73,
+        "quantity": 2
+      },
+      {
+        "name": "SNACK BOLAS DE QUEIJO CNT 130G",
+        "category": "Mercearia Salgada",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK BATATA CAMPONESA LAY S FO",
+        "category": "Mercearia Salgada",
+        "price": 2.39,
+        "discount": 0.8999999999999999,
+        "quantity": 1
+      },
+      {
+        "name": "CHEETOS CRUNCHY S&S 90G",
+        "category": "Mercearia Salgada",
+        "price": 1.5,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MINI TORTITAS RECEITA MED. BICE",
+        "category": "Mercearia Doce",
+        "price": 1.49,
+        "discount": 0.5,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_CCK207_064517",
+    "date": "2026-02-01T14:58:00",
+    "store": "Continente",
+    "totalPaid": 16.6,
+    "totalDiscounts": 2.05,
+    "subtotal": 21.77,
+    "items": [
+      {
+        "name": "REF.C/GAS SUMOL MARACUJA 1.5L",
+        "category": "Soft Drinks",
+        "price": 1.39,
+        "discount": 0.36,
+        "quantity": 1
+      },
+      {
+        "name": "REF C/GAS SUMOL LARANJA 1L",
+        "category": "Soft Drinks",
+        "price": 2.97,
+        "discount": 0.9,
+        "quantity": 3
+      },
+      {
+        "name": "SUMO ANANAS,BANANA,COCO CNT EQ",
+        "category": "Soft Drinks",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS AR LIVR CLASSE M/L CNT BIO",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUEIJO RICOTTA FINETTA GALBANI",
+        "category": "Charcutaria&Queijos",
+        "price": 1.67,
+        "discount": 0.19,
+        "quantity": 1
+      },
+      {
+        "name": "COUVE BROCOLO",
+        "category": "Frutas e Legumes",
+        "price": 2.05,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MACA GALA ALCOBACA",
+        "category": "Frutas e Legumes",
+        "price": 1.53,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.09,
+        "discount": 0.6,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_CCK207_064518",
+    "date": "2026-02-01T15:00:00",
+    "store": "Continente",
+    "totalPaid": 2.89,
+    "totalDiscounts": 1.45,
+    "subtotal": 2.89,
+    "items": [
+      {
+        "name": "IOG LIQ DEF CNT NAT 00% 12X100G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.89,
+        "discount": 1.45,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU225_119514",
+    "date": "2026-02-07T22:52:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 59.15,
+    "totalDiscounts": 9.58,
+    "subtotal": 62.78,
+    "items": [
+      {
+        "name": "CHEETOS CRUNCHY S&S 90G",
+        "category": "Mercearia Salgada",
+        "price": 1.5,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS COCA COLA 1L",
+        "category": "Soft Drinks",
+        "price": 1.29,
+        "discount": 0.2,
+        "quantity": 1
+      },
+      {
+        "name": "CERV.C/ALC.SUPER BOCK LATA 50",
+        "category": "Soft Drinks",
+        "price": 2.55,
+        "discount": 1.92,
+        "quantity": 3
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 3.6,
+        "discount": 1.72,
+        "quantity": 4
+      },
+      {
+        "name": "AGUA C/GAS PEDRAS LIMAO PET 1L",
+        "category": "Soft Drinks",
+        "price": 4.77,
+        "discount": 1.2,
+        "quantity": 3
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 50CL",
+        "category": "Soft Drinks",
+        "price": 0.17,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FOCUS WATER S/ GAS LIMAO LIMA",
+        "category": "Soft Drinks",
+        "price": 0.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "SMOOTHIE SB MANG COCO GENG CUR",
+        "category": "Soft Drinks",
+        "price": 1.19,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/ GAS MONCHIQUE 72CL",
+        "category": "Soft Drinks",
+        "price": 0.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ACAI ZERO NATIVE ACAI 480ML",
+        "category": "Congelados",
+        "price": 6.34,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NATA FR PRESIDENT CUL 30%MG 200",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MASSA RUMMO SPAGHETTI N 3 500G",
+        "category": "Bens Essenciais",
+        "price": 2.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FIAMBRE PERNA EXT FINISSIMAS CN",
+        "category": "Charcutaria&Queijos",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO PRATOS MEXICO CNT 200",
+        "category": "Charcutaria&Queijos",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 3.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QJ VACA CASTEL ES FATIAS EM",
+        "category": "Charcutaria&Queijos",
+        "price": 2.19,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "ALHO FRANCES",
+        "category": "Frutas e Legumes",
+        "price": 2.31,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.1,
+        "discount": 0.22,
+        "quantity": 1
+      },
+      {
+        "name": "CEBOLA CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 0.7,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CEBOLA CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 0.47,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MACA GRANNY SMITH",
+        "category": "Frutas e Legumes",
+        "price": 1.31,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COGUMELO MARRON CNT 300G",
+        "category": "Frutas e Legumes",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COG BRANCO INTEIRO CNT 300G",
+        "category": "Frutas e Legumes",
+        "price": 1.43,
+        "discount": 0.16,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA FOLHADA CNT 230GR",
+        "category": "Take Away",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BRINQ KARLIE BORR OSSO C/CORDA",
+        "category": "Petfood and Care",
+        "price": 3.51,
+        "discount": 1.18,
+        "quantity": 1
+      },
+      {
+        "name": "BRINQ KARLIE BOLA SNACK 7CM",
+        "category": "Petfood and Care",
+        "price": 5.99,
+        "discount": 2,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU218_165236",
+    "date": "2026-02-19T19:11:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 40.9,
+    "totalDiscounts": 5.38,
+    "subtotal": 40.900000000000006,
+    "items": [
+      {
+        "name": "FRALDA DODOT SENSITIVE T2 58UN",
+        "category": "Higiene",
+        "price": 12.71,
+        "discount": 4.63,
+        "quantity": 1
+      },
+      {
+        "name": "GELADO ARTESANAL CARAM SANTINI",
+        "category": "Congelados",
+        "price": 12.77,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUEIJO BRIE CONTINENTE 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.3,
+        "discount": 0.2,
+        "quantity": 2
+      },
+      {
+        "name": "CR BARRAR NUTELLA AV/CACAU 350G",
+        "category": "Pequeno Almoco",
+        "price": 4.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MEL DE FLORES FR CNT SELECAO 30",
+        "category": "Pequeno Almoco",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.14,
+        "discount": 0.55,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA FOLHADA RETANG. CNT 375GR",
+        "category": "Take Away",
+        "price": 2.7,
+        "discount": 0,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB305_099543",
+    "date": "2026-02-23T19:41:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 51.99,
+    "totalDiscounts": 3.55,
+    "subtotal": 60.26,
+    "items": [
+      {
+        "name": "MILHO DOCE CONTINENTE 3*140G",
+        "category": "Mercearia Salgada",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TORTILHAS TRIGO FAJITA CNT 320G",
+        "category": "Mercearia Salgada",
+        "price": 1.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK MULT. SOUR CREAM CNT 95G",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0.35,
+        "quantity": 1
+      },
+      {
+        "name": "CHEETOS CRUNCHY S&S 90G",
+        "category": "Mercearia Salgada",
+        "price": 6,
+        "discount": 0,
+        "quantity": 4
+      },
+      {
+        "name": "SNACK CHOCOLATE SNICKERS 10*50G",
+        "category": "Mercearia Doce",
+        "price": 6.79,
+        "discount": 1.2,
+        "quantity": 1
+      },
+      {
+        "name": "TAB LACASA 85% CACAU 100G",
+        "category": "Mercearia Doce",
+        "price": 4.88,
+        "discount": 1.7,
+        "quantity": 2
+      },
+      {
+        "name": "TORT MILHO QU. MANJ.BICENT 130G",
+        "category": "Mercearia Doce",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TORTITAS MILHO TOMATE AZEIT BIC",
+        "category": "Mercearia Doce",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 6*1.5L",
+        "category": "Soft Drinks",
+        "price": 1.68,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO D/QUEIJO CONTINENTE 300G 12",
+        "category": "Congelados",
+        "price": 2.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MASSA GEMELLI LAMOLISANA 500G",
+        "category": "Bens Essenciais",
+        "price": 4.32,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PRESUNTO 9 MESES CURA CNT 220G",
+        "category": "Charcutaria&Queijos",
+        "price": 5.49,
+        "discount": 1.37,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 5.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOM MINI CHUCHA VERME CNT 250GR",
+        "category": "Frutas e Legumes",
+        "price": 3.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MISTURA MEDITERRANEA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZEITONA PRETA RODELAS OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 1.35,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO FORMA ARTESENCIA BIMBO 500G",
+        "category": "Padaria",
+        "price": 2.24,
+        "discount": 1.21,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB305_099544",
+    "date": "2026-02-23T19:44:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 5.65,
+    "totalDiscounts": 1.13,
+    "subtotal": 5.65,
+    "items": [
+      {
+        "name": "BIFE FRANGO EXTRAFINO CNT LS",
+        "category": "Talho",
+        "price": 5.65,
+        "discount": 1.13,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU216_151599",
+    "date": "2026-03-01T19:47:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 50.56,
+    "totalDiscounts": 9.24,
+    "subtotal": 57.72,
+    "items": [
+      {
+        "name": "SNACK BOLAS DE QUEIJO CNT 130G",
+        "category": "Mercearia Salgada",
+        "price": 2.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "SNACK MULT. SOUR CREAM CNT 95G",
+        "category": "Mercearia Salgada",
+        "price": 2.78,
+        "discount": 0.7,
+        "quantity": 2
+      },
+      {
+        "name": "BOL CONTINENTE DIGESTIVA 400G",
+        "category": "Mercearia Doce",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOLACHA AVEIA CONTINENTE 387G",
+        "category": "Mercearia Doce",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 4.45,
+        "discount": 2.2,
+        "quantity": 5
+      },
+      {
+        "name": "NUGGETS FRANGO C.IGLO 25UN",
+        "category": "Congelados",
+        "price": 6.99,
+        "discount": 7,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA CARBONARA CONTINENTE 340G",
+        "category": "Congelados",
+        "price": 2.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "DADINHO TAPIOCA CNT 12UN 240G",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 1.65,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA HOT DOG CNT 460G",
+        "category": "Congelados",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "IOG LIQ DEF CNT MULTIFRU 6X100G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.45,
+        "discount": 0.73,
+        "quantity": 1
+      },
+      {
+        "name": "NATA PAST LONGA VIDA 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BACON FUM TIRAS CNT 150G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 0.95,
+        "discount": 0.04,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 5.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QJ RALADO PIZZA CNT 2X200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.11,
+        "discount": 0.22,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA AROMATICA CNT 150GR",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY TRIMIX 250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "UVA BRANCA S/GRAINHA CNT 1 KG",
+        "category": "Frutas e Legumes",
+        "price": 5.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA FOLHADA CNT 230GR",
+        "category": "Take Away",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU227_145220",
+    "date": "2026-03-15T18:01:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 24,
+    "totalDiscounts": 1.55,
+    "subtotal": 34.69,
+    "items": [
+      {
+        "name": "MASSA PIMENTAO CONTINENTE 200G",
+        "category": "Mercearia Salgada",
+        "price": 0.85,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEPINO EM VINAGRE CNT 180G",
+        "category": "Mercearia Salgada",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "IOG MYTHOS CNT EQ NAT LIG 1KG",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.35,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA COUSCOUS GAROFALO 1KG",
+        "category": "Bens Essenciais",
+        "price": 3.15,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO PIZZA CNT 2X200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 2.78,
+        "discount": 1,
+        "quantity": 2
+      },
+      {
+        "name": "COUVE ROXA",
+        "category": "Frutas e Legumes",
+        "price": 1.68,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.34,
+        "discount": 0.27,
+        "quantity": 1
+      },
+      {
+        "name": "ALHO SECO KG",
+        "category": "Frutas e Legumes",
+        "price": 0.77,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CEBOLA CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 1.56,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATA ESPECIAL ASSAR SC 1KG",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SULTANA CLARA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA CIT ALGARVE IGP 1 KG",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.14,
+        "discount": 0.55,
+        "quantity": 1
+      },
+      {
+        "name": "BRAS DE LEGUMES 300G CZ CNT",
+        "category": "Take Away",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU204_017229",
+    "date": "2026-03-22T17:19:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 33.24,
+    "totalDiscounts": 13.7,
+    "subtotal": 33.51,
+    "items": [
+      {
+        "name": "ROLO COZINHA FOXY MEGA 3 2R=6R",
+        "category": "Limpeza do Lar",
+        "price": 2.99,
+        "discount": 1.7,
+        "quantity": 1
+      },
+      {
+        "name": "ACAI ZERO NATIVE ACAI 480ML",
+        "category": "Congelados",
+        "price": 6.34,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA HOT DOG CNT 460G",
+        "category": "Congelados",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS SOLO M CNTINENTE 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MANTEIGA S/ SAL CNT 250G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEMENTES LINHACA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROISSANT PASTELARIA CARECA 3UN",
+        "category": "Padaria",
+        "price": 2.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB TAPADA DAS LEBRES SIG AL",
+        "category": "Vinho e Espirituosas",
+        "price": 4.99,
+        "discount": 12,
+        "quantity": 1
+      },
+      {
+        "name": "CJ4 FOLHAS ANTIGOTAS DROPSTOP",
+        "category": "Casa-Cozinha/Lavand",
+        "price": 3.5,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AST006_310178",
+    "date": "2026-04-06T18:24:00",
+    "store": "Continente",
+    "totalPaid": 15.58,
+    "totalDiscounts": 8.39,
+    "subtotal": 15.58,
+    "items": [
+      {
+        "name": "CREME ROSELIANE SPF30 40ML URIA",
+        "category": "Dermocosmetica",
+        "price": 15.58,
+        "discount": 8.39,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB305_104519",
+    "date": "2026-04-06T19:06:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 74.78,
+    "totalDiscounts": 30.45,
+    "subtotal": 77.78,
+    "items": [
+      {
+        "name": "MILHO DOCE BONDUELLE 3*140G",
+        "category": "Mercearia Salgada",
+        "price": 2.59,
+        "discount": 1.4,
+        "quantity": 1
+      },
+      {
+        "name": "TABLETE CHOCOLATE NEGRO 72% CNT",
+        "category": "Mercearia Doce",
+        "price": 1.69,
+        "discount": 0.85,
+        "quantity": 1
+      },
+      {
+        "name": "TORTITAS MILHO TOMATE AZEIT BIC",
+        "category": "Mercearia Doce",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 1L",
+        "category": "Soft Drinks",
+        "price": 1.16,
+        "discount": 0,
+        "quantity": 4
+      },
+      {
+        "name": "RECARGA SAB LIQ DOVE 500ML",
+        "category": "Higiene",
+        "price": 3.14,
+        "discount": 2.15,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA POLIDENT OXIG ACTIVO 48UN",
+        "category": "Higiene",
+        "price": 5.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "EVAX SALVASLIP MAXI 50 + 22UN",
+        "category": "Higiene",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "DEO MAQ LOICA CONTINENTE",
+        "category": "Limpeza do Lar",
+        "price": 1.39,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO D/QUEIJO CONTINENTE 300G 12",
+        "category": "Congelados",
+        "price": 2.69,
+        "discount": 1.35,
+        "quantity": 1
+      },
+      {
+        "name": "MANT C/SAL ACOR CONTINENTE 250G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.09,
+        "discount": 1.05,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "PRESUNTO FAT 9M CNT 120G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 1.11,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 1.11,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "GRANOLA SALUTE AVELA PISTACIO 3",
+        "category": "Pequeno Almoco",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 0.38,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "TOM CHERRY VERM 250GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA CIT ALGARVE IGP 1 KG",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "VB CASAL DA EIRA 25CL",
+        "category": "Vinho e Espirituosas",
+        "price": 1.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BOXER",
+        "category": "Nao Vestuario Adulto",
+        "price": 12.99,
+        "discount": 13,
+        "quantity": 1
+      },
+      {
+        "name": "BOXER",
+        "category": "Nao Vestuario Adulto",
+        "price": 12.99,
+        "discount": 13,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB312_064739",
+    "date": "2026-04-12T17:25:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 50.09,
+    "totalDiscounts": 16.67,
+    "subtotal": 61.04,
+    "items": [
+      {
+        "name": "MULTIVITAMINICO SUPLA 100CPS",
+        "category": "Mercearia Salgada",
+        "price": 5.38,
+        "discount": 0.61,
+        "quantity": 1
+      },
+      {
+        "name": "DORMIR SUPLA 60UN",
+        "category": "Mercearia Salgada",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "WRAP DE TRIGO KOALA 8UN 320 G",
+        "category": "Mercearia Salgada",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TABLETE CHOC NEGRO 72% SAL CNT",
+        "category": "Mercearia Doce",
+        "price": 1.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 3.56,
+        "discount": 1.76,
+        "quantity": 4
+      },
+      {
+        "name": "AGUA C/GAS PEDRAS LIMAO PET 1L",
+        "category": "Soft Drinks",
+        "price": 1.59,
+        "discount": 0.4,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 1L",
+        "category": "Soft Drinks",
+        "price": 1.16,
+        "discount": 0,
+        "quantity": 4
+      },
+      {
+        "name": "AMAC CONC COMFORT ESSENCIA PURE",
+        "category": "Limpeza do Lar",
+        "price": 3.49,
+        "discount": 3.5,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FLAM T.NOST FATIAS EMB",
+        "category": "Charcutaria&Queijos",
+        "price": 2.29,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA LIGHT CONTINENTE",
+        "category": "Charcutaria&Queijos",
+        "price": 2.1,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QUEIJO MOZZARELLA GALBANI ST LU",
+        "category": "Charcutaria&Queijos",
+        "price": 3.45,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CAFE STARBUCKS CARAMELO NESP 10",
+        "category": "Pequeno Almoco",
+        "price": 3.94,
+        "discount": 1.35,
+        "quantity": 1
+      },
+      {
+        "name": "PEPINO CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 1.76,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CACHO",
+        "category": "Frutas e Legumes",
+        "price": 4.02,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA AROMATICA CNT 150GR",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SULTANA CLARA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROISSANT PASTELARIA CARECA 3UN",
+        "category": "Padaria",
+        "price": 2.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.14,
+        "discount": 0.55,
+        "quantity": 1
+      },
+      {
+        "name": "VT PERA DOCE ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 5.98,
+        "discount": 7.4,
+        "quantity": 2
+      },
+      {
+        "name": "TINTO DE VERANO LIMAO LA CASERA",
+        "category": "Vinho e Espirituosas",
+        "price": 2.1,
+        "discount": 0,
+        "quantity": 2
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB307_159337",
+    "date": "2026-04-19T17:36:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 39.79,
+    "totalDiscounts": 4.82,
+    "subtotal": 45.89,
+    "items": [
+      {
+        "name": "SNACK PALITOS DE KETCHUP CNT 10",
+        "category": "Mercearia Salgada",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NACHOS MILHO CNT CHILLI150G",
+        "category": "Mercearia Salgada",
+        "price": 1.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK BOLAS DE QUEIJO CNT 130G",
+        "category": "Mercearia Salgada",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK MULT. SOUR CREAM CNT 95G",
+        "category": "Mercearia Salgada",
+        "price": 2.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BATATA FRITA LAY S GOURMET 170G",
+        "category": "Mercearia Salgada",
+        "price": 3.38,
+        "discount": 2.85,
+        "quantity": 2
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 3.56,
+        "discount": 1.76,
+        "quantity": 4
+      },
+      {
+        "name": "DEO NIVEA B&W ACTIVE 50ML",
+        "category": "Higiene",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SACOS LIXO CNT LAV 30L 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SACOS LIXO CNT MOR 30L 20UN",
+        "category": "Limpeza do Lar",
+        "price": 1.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROUSTIS BONDUELLE BROCOL & QJO",
+        "category": "Congelados",
+        "price": 3.09,
+        "discount": 1.06,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA SPICY PEPPERONI CNT 560G",
+        "category": "Congelados",
+        "price": 3.69,
+        "discount": 1.85,
+        "quantity": 1
+      },
+      {
+        "name": "NATA UHT CONTINENTE CULIN 200ML",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.16,
+        "discount": 0,
+        "quantity": 4
+      },
+      {
+        "name": "IOG LIQ +PROT CNT MANGA 280G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.4,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "AZEITONA PRETA RODELAS OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 2.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "CROISSANT PASTELARIA CARECA 3UN",
+        "category": "Padaria",
+        "price": 2.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA FOLHADA CNT 230GR",
+        "category": "Take Away",
+        "price": 0.99,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AOO201_106876",
+    "date": "2026-05-17T19:00:00",
+    "store": "Continente",
+    "totalPaid": 59.86,
+    "totalDiscounts": 36.85,
+    "subtotal": 63.6,
+    "items": [
+      {
+        "name": "MOLHO TERIYAKI BLUE DRAGON 190",
+        "category": "Mercearia Salgada",
+        "price": 4.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GB SUAVE J S BABY COTTON TOUCH",
+        "category": "Higiene",
+        "price": 4.19,
+        "discount": 1.8,
+        "quantity": 1
+      },
+      {
+        "name": "ACAI C/GUARANA 500ML CNT BIO",
+        "category": "Congelados",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA SMOKEY BBQ CNT 570G",
+        "category": "Congelados",
+        "price": 3.69,
+        "discount": 1.85,
+        "quantity": 1
+      },
+      {
+        "name": "NUGGETS DE QUEIJO CNT 500G",
+        "category": "Congelados",
+        "price": 4.19,
+        "discount": 2.1,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS AR LIVRE CLASS M/L CNT 1DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.55,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOLICO 380G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 6.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BALSAMO DE LIMPEZA MYLABEL 100M",
+        "category": "Beleza",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "MASSA GEMELLI LAMOLISANA 500G",
+        "category": "Bens Essenciais",
+        "price": 4.32,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MANT AMEN PEDACOS CALVE 350G",
+        "category": "Pequeno Almoco",
+        "price": 2.44,
+        "discount": 1.35,
+        "quantity": 1
+      },
+      {
+        "name": "LARANJA CITRINOS ALGARVE IGP KG",
+        "category": "Frutas e Legumes",
+        "price": 1.54,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA AROMATICA CNT 150GR",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "AZEITONA PRETA RODELAS OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VT PERA DOCE ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 2.99,
+        "discount": 3.7,
+        "quantity": 1
+      },
+      {
+        "name": "VB GUARDA RIOS PREMIUM ALEN",
+        "category": "Vinho e Espirituosas",
+        "price": 7.98,
+        "discount": 20,
+        "quantity": 2
+      },
+      {
+        "name": "VT GUARDA RIOS  PREMIUM ALE",
+        "category": "Vinho e Espirituosas",
+        "price": 3.99,
+        "discount": 10,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_FDO010_220144",
+    "date": "2026-05-22T19:04:00",
+    "store": "Continente",
+    "totalPaid": 94.25,
+    "totalDiscounts": 26.2,
+    "subtotal": 100.61,
+    "items": [
+      {
+        "name": "MOST.DIJON ORIG.MAILLE FRS 215G",
+        "category": "Mercearia Salgada",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MILHO DOCE BONDUELLE 3*140G",
+        "category": "Mercearia Salgada",
+        "price": 2.59,
+        "discount": 1.4,
+        "quantity": 1
+      },
+      {
+        "name": "ATUM OLEO BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 1.05,
+        "discount": 0.67,
+        "quantity": 1
+      },
+      {
+        "name": "ATUM AZEITE BOM PETISCO 78G",
+        "category": "Mercearia Salgada",
+        "price": 4.48,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "PASTA AZEITONA VERDE CNT SEL",
+        "category": "Mercearia Salgada",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REB S/AC ORIGINAL HALLS 32G",
+        "category": "Mercearia Doce",
+        "price": 2.97,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "PAST CHICLETS SPEARMINT 16,5G",
+        "category": "Mercearia Doce",
+        "price": 1.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CERV.C/ALC.SUPER BOCK TP 1",
+        "category": "Soft Drinks",
+        "price": 7.56,
+        "discount": 0.4,
+        "quantity": 4
+      },
+      {
+        "name": "AGUA S/GAS CALDAS PENACOVA 3,1L",
+        "category": "Soft Drinks",
+        "price": 0.87,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA SENSODYNE PRO-ESMALT 75ML",
+        "category": "Higiene",
+        "price": 3.96,
+        "discount": 1.33,
+        "quantity": 1
+      },
+      {
+        "name": "PASTA POLIDENT OXIG ACTIVO 48UN",
+        "category": "Higiene",
+        "price": 8.98,
+        "discount": 3,
+        "quantity": 2
+      },
+      {
+        "name": "PASTA COLGAT PERIOGARD GE 75ML",
+        "category": "Higiene",
+        "price": 5.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AMBIPU CASA BANHO MACA E CANELA",
+        "category": "Limpeza do Lar",
+        "price": 2.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "ABSORVE ODOR AMBIPUR RELVA 1UN",
+        "category": "Limpeza do Lar",
+        "price": 2.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "ABRILHANTADOR FINISH 1150ML",
+        "category": "Limpeza do Lar",
+        "price": 9.99,
+        "discount": 15,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI CONTINENTE CHOCO AVELA 6U",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FLUIDO SPF50+ 50M MYLABEL",
+        "category": "Beleza",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SERUM SOLAR SPF50+ 30ML",
+        "category": "Beleza",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.97,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "QUEIJO BRIE CONTINENTE 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOQUEIRAO EM AZEITE VIRGEM EXTR",
+        "category": "Charcutaria&Queijos",
+        "price": 2.16,
+        "discount": 0.4,
+        "quantity": 1
+      },
+      {
+        "name": "CR BARRAR NUTELLA AV/CACAU 350G",
+        "category": "Pequeno Almoco",
+        "price": 4.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA",
+        "category": "Frutas e Legumes",
+        "price": 1.1,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 0.86,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MANJERICAO BIO VASO",
+        "category": "Frutas e Legumes",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZEITONA PRETA RODELAS OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VB FRISANTE CACHO FRESCO TEJO",
+        "category": "Vinho e Espirituosas",
+        "price": 6.87,
+        "discount": 0,
+        "quantity": 3
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_FDO011_344889",
+    "date": "2026-05-24T19:19:00",
+    "store": "Continente",
+    "totalPaid": 5.04,
+    "totalDiscounts": 0,
+    "subtotal": 7.04,
+    "items": [
+      {
+        "name": "TOALHITAS DODOT AZUL C/TAMPA 52",
+        "category": "Higiene",
+        "price": 1.26,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SPRAY GLASS CLEANER THE PINK ST",
+        "category": "Limpeza do Lar",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 3.29,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AJG304_215345",
+    "date": "2026-06-02T17:48:00",
+    "store": "Continente",
+    "totalPaid": 29.69,
+    "totalDiscounts": 6.31,
+    "subtotal": 44.88,
+    "items": [
+      {
+        "name": "SALSICHAS BOCKW",
+        "category": "Mercearia Salgada",
+        "price": 4.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "BOL CRACKER FOLHAS CLAS SG G.PA",
+        "category": "Mercearia Doce",
+        "price": 3.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOL GRANPAVESI CR C/SAL 250G",
+        "category": "Mercearia Doce",
+        "price": 1.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA S/GAS CONTINENTE 1L",
+        "category": "Soft Drinks",
+        "price": 0.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "AGUA S/GAS CALDAS PENACOVA 3,1L",
+        "category": "Soft Drinks",
+        "price": 0.87,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FALAFEL GREEN CUISINE 450G",
+        "category": "Congelados",
+        "price": 4.99,
+        "discount": 1.7,
+        "quantity": 1
+      },
+      {
+        "name": "CUBOS DE GELO CONTINENTE 2KG",
+        "category": "Congelados",
+        "price": 1.1,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GYOSAS DE VEGETAIS 400G",
+        "category": "Congelados",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOLINHAS ALHEIRA E CHOURICO CNT",
+        "category": "Congelados",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "OLA SANDWICH FILIPIN CARAMEL",
+        "category": "Congelados",
+        "price": 3.99,
+        "discount": 2.66,
+        "quantity": 1
+      },
+      {
+        "name": "IOG LIQ BEM-ESTAR CNT EQ 4X160G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CAFE STARBUCKS CARAMELO NESP 10",
+        "category": "Pequeno Almoco",
+        "price": 3.94,
+        "discount": 1.35,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.31,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TREMOCO AO NATURAL 270 G",
+        "category": "Frutas e Legumes",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO HOT DOG BIMBO 6UN 330GR",
+        "category": "Padaria",
+        "price": 3.48,
+        "discount": 0.6,
+        "quantity": 2
+      },
+      {
+        "name": "COOLER BAG BIG",
+        "category": "Casa-Cozinha/Lavand",
+        "price": 2.5,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.2,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AJG304_215346",
+    "date": "2026-06-02T17:51:00",
+    "store": "Continente",
+    "totalPaid": 3.78,
+    "totalDiscounts": 1.9,
+    "subtotal": 3.7800000000000002,
+    "items": [
+      {
+        "name": "PERNAS DO MAR CONTINENTE 8X31G",
+        "category": "Congelados",
+        "price": 1.79,
+        "discount": 0.9,
+        "quantity": 1
+      },
+      {
+        "name": "CHAMPO ANTICASPA MYLABEL MEN 38",
+        "category": "Beleza",
+        "price": 1.99,
+        "discount": 1,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_BOO204_072482",
+    "date": "2026-06-04T16:21:00",
+    "store": "Continente",
+    "totalPaid": 12.29,
+    "totalDiscounts": 0.6,
+    "subtotal": 11.989999999999998,
+    "items": [
+      {
+        "name": "REF C/GAS COCA COLA ORI 500ML",
+        "category": "Soft Drinks",
+        "price": 1.19,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NECTAR BANANA COMPAL 1L",
+        "category": "Soft Drinks",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CERV.C/ALC.SUPER BOCK TP 1",
+        "category": "Soft Drinks",
+        "price": 1.89,
+        "discount": 0.1,
+        "quantity": 1
+      },
+      {
+        "name": "SIDRA SOMERSB MARAC.&LARAN.LATA",
+        "category": "Soft Drinks",
+        "price": 1.98,
+        "discount": 0.5,
+        "quantity": 2
+      },
+      {
+        "name": "PAO D/QUEIJO CONTINENTE 300G 12",
+        "category": "Congelados",
+        "price": 2.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROISSANT PASTELARIA CARECA 3UN",
+        "category": "Padaria",
+        "price": 2.95,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_OES205_127565",
+    "date": "2026-06-14T19:45:00",
+    "store": "Continente CBD QUELUZ PR COUCEI",
+    "totalPaid": 44.77,
+    "totalDiscounts": 2.65,
+    "subtotal": 52.34,
+    "items": [
+      {
+        "name": "FILETE ATUM AZEITE TENORIO 78G",
+        "category": "Mercearia Salgada",
+        "price": 3.15,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALS HD SWEET CHILI FRS NOBRE",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SAL MARNOTO 1KG",
+        "category": "Mercearia Salgada",
+        "price": 0.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CREME VINAGRE PONTI BALSAMICO",
+        "category": "Mercearia Salgada",
+        "price": 3.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MAION DELICIOSA HEINZ TOP DOWN",
+        "category": "Mercearia Salgada",
+        "price": 2.79,
+        "discount": 1.2,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS PEPSI TREATS 33CL",
+        "category": "Soft Drinks",
+        "price": 0.69,
+        "discount": 0.14,
+        "quantity": 1
+      },
+      {
+        "name": "LIMA LIMAO 7UP ZERO PINK 1L",
+        "category": "Soft Drinks",
+        "price": 1.98,
+        "discount": 0.6,
+        "quantity": 2
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "PEITO DE FRANGO COMPRA/AT",
+        "category": "Talho",
+        "price": 6.11,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ RALADO PIZZA CNT 2X200G",
+        "category": "Charcutaria&Queijos",
+        "price": 3.18,
+        "discount": 0.11,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 3.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QJ MOZZARELLA ST LUCIA GALBANI",
+        "category": "Charcutaria&Queijos",
+        "price": 3.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QUEIJO RICOTTA FINETTA GALBANI",
+        "category": "Charcutaria&Queijos",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.1,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA ORRI KG",
+        "category": "Frutas e Legumes",
+        "price": 2.84,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PERA FORELLE",
+        "category": "Frutas e Legumes",
+        "price": 0.77,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SULTANA CLARA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOM MINI CHUCHA VERME CNT 250GR",
+        "category": "Frutas e Legumes",
+        "price": 2.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BAGUETE PASTA ATUM 290G CZ CNT",
+        "category": "Take Away",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.3,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB317_213807",
+    "date": "2026-07-12T18:21:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 28.76,
+    "totalDiscounts": 1.91,
+    "subtotal": 28.660000000000004,
+    "items": [
+      {
+        "name": "GRAO BICO CONTINENTE 400G",
+        "category": "Mercearia Salgada",
+        "price": 0.84,
+        "discount": 0.05,
+        "quantity": 1
+      },
+      {
+        "name": "LEITE CONDENSADO CONTINENTE 397",
+        "category": "Mercearia Doce",
+        "price": 1.45,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "POLPA MARACUJA C/ SEMENTES KOAL",
+        "category": "Mercearia Doce",
+        "price": 4.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF C/GAS PESSEGO GENGIBRE  BIO",
+        "category": "Soft Drinks",
+        "price": 1.75,
+        "discount": 0.44,
+        "quantity": 1
+      },
+      {
+        "name": "GINGER BEER PREMIUM FEVER-TREE",
+        "category": "Soft Drinks",
+        "price": 5.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TISANA TILIA GENGIBR LIMAO CNT",
+        "category": "Soft Drinks",
+        "price": 1.39,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "MORTADELA PERU C/AZEITONA CAMPO",
+        "category": "Charcutaria&Queijos",
+        "price": 1.75,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MORTADELA BOLOGNA IGP CNT SELEC",
+        "category": "Charcutaria&Queijos",
+        "price": 5.08,
+        "discount": 3.44,
+        "quantity": 2
+      },
+      {
+        "name": "CLEMENTINA",
+        "category": "Frutas e Legumes",
+        "price": 2.05,
+        "discount": 0.52,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "CAJU TORRADO SEM SAL CNT 175G",
+        "category": "Frutas e Legumes",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FT_AAB315_003802",
+    "date": "2026-07-18T14:37:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 134.48,
+    "totalDiscounts": 25.66,
+    "subtotal": 161.37,
+    "items": [
+      {
+        "name": "FOLHAS ALGAS BLUE DRAGON 11G",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK PRINGLES MYSTERY FLAVOUR",
+        "category": "Mercearia Salgada",
+        "price": 1.62,
+        "discount": 1.63,
+        "quantity": 1
+      },
+      {
+        "name": "VINAGRE DE ARROZ SAITAKU 150ML",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ATUM POSTA EM AZEITE VE GALLO 1",
+        "category": "Mercearia Salgada",
+        "price": 7.96,
+        "discount": 2,
+        "quantity": 4
+      },
+      {
+        "name": "MASSA PENNE MOLHO COG CNT 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FUSILLI PARMES CONTINENTE 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATAS FRITAS CEBOLA CARAM CNT",
+        "category": "Mercearia Salgada",
+        "price": 1.29,
+        "discount": 0.1,
+        "quantity": 1
+      },
+      {
+        "name": "MOLHO SOJA KIKKOMAN 150ML",
+        "category": "Mercearia Salgada",
+        "price": 4.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF C/ GAS SUMOL ECLIPSE 1L",
+        "category": "Soft Drinks",
+        "price": 1.98,
+        "discount": 0.6,
+        "quantity": 2
+      },
+      {
+        "name": "COTONETES BIO CONTINENTE 300UN",
+        "category": "Higiene",
+        "price": 0.92,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ACAI ZERO NATIVE ACAI 480ML",
+        "category": "Congelados",
+        "price": 6.34,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ESPARREGADO ESPINAFRES CNT 700G",
+        "category": "Congelados",
+        "price": 2.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 2.09,
+        "discount": 0.63,
+        "quantity": 1
+      },
+      {
+        "name": "OVOS DE SOLO CLASSE CONT 1/2DZ",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 3.38,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "ARROZ E/M BRANQ SUSHI CACAROLA",
+        "category": "Bens Essenciais",
+        "price": 1.91,
+        "discount": 0.48,
+        "quantity": 1
+      },
+      {
+        "name": "PORCAO SALMAO FRESCO",
+        "category": "Peixaria",
+        "price": 5.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "FILETES DE TILAPIA FRESCO KG",
+        "category": "Peixaria",
+        "price": 2.22,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "QUEIJO BRIE CONTINENTE 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BURRATA DE VACA CNT 200G",
+        "category": "Charcutaria&Queijos",
+        "price": 5.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "MANGA PALMER AVIAO",
+        "category": "Frutas e Legumes",
+        "price": 2.37,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "LIMA",
+        "category": "Frutas e Legumes",
+        "price": 0.61,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 1.01,
+        "discount": 0.08,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ABACATE HASS 500 G",
+        "category": "Frutas e Legumes",
+        "price": 2.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZEITONA PRETA RODELAS OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOMATE CHERRY ALONGADO 250G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROISSANT PASTELARIA CARECA 3UN",
+        "category": "Padaria",
+        "price": 2.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO DE FORMA S/CODEA BIMBO 650G",
+        "category": "Padaria",
+        "price": 2.19,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "RUM CAPTAIN MORGAN SPICED GOLD",
+        "category": "Vinho e Espirituosas",
+        "price": 14.85,
+        "discount": 2.64,
+        "quantity": 1
+      },
+      {
+        "name": "VODKA SMIRNOFF RED 70CL",
+        "category": "Vinho e Espirituosas",
+        "price": 13.39,
+        "discount": 2.4,
+        "quantity": 1
+      },
+      {
+        "name": "VT PERA DOCE RES ALENT 75CL",
+        "category": "Vinho e Espirituosas",
+        "price": 6.98,
+        "discount": 13,
+        "quantity": 2
+      },
+      {
+        "name": "VODKA ABSOLUT HARING 70CL",
+        "category": "Vinho e Espirituosas",
+        "price": 21.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PLANTA NAT ROSA KORDANA V10.5CM",
+        "category": "DIY",
+        "price": 4.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEITORAL-H CAO DUKIER AV S",
+        "category": "Petfood and Care",
+        "price": 19.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BRINQ KARLIE BORR ANEL 9CM",
+        "category": "Petfood and Care",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.2,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_AAB315_155300",
+    "date": "2026-07-18T14:40:00",
+    "store": "Continente MCH Amadora",
+    "totalPaid": 23.67,
+    "totalDiscounts": 28,
+    "subtotal": 23.67,
+    "items": [
+      {
+        "name": "DET LIQ SKIP CICLOS CURTOS EFIC",
+        "category": "Limpeza do Lar",
+        "price": 21.98,
+        "discount": 32.4,
+        "quantity": 2
+      },
+      {
+        "name": "IOG MYTHOS CNT FRAM/CHOC 4X115G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.69,
+        "discount": 0.85,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_INU204_166862",
+    "date": "2026-06-29T20:24:00",
+    "store": "Continente",
+    "totalPaid": 29.6,
+    "totalDiscounts": 0.72,
+    "subtotal": 31.6,
+    "items": [
+      {
+        "name": "MOCKTAIL MOSCOW MULE CNT 750ML",
+        "category": "Soft Drinks",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GEL CNT EXOTIC FREEZY 6X60ML",
+        "category": "Congelados",
+        "price": 2.49,
+        "discount": 1.25,
+        "quantity": 1
+      },
+      {
+        "name": "IOG NATURAL DANONE 8*120G L+P-",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.99,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "IOG LIQ CREMOSO CNT COCO 160G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 0.36,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUINOA TRICOLOR CNT EQ. 500G",
+        "category": "Bens Essenciais",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.85,
+        "discount": 0.12,
+        "quantity": 3
+      },
+      {
+        "name": "QJ FRESCO VACA MEDIO SANTIAGO U",
+        "category": "Charcutaria&Queijos",
+        "price": 3.78,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "CLEMENTINA",
+        "category": "Frutas e Legumes",
+        "price": 1.9,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEPINO CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 2.02,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 0.85,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CENOURA KG",
+        "category": "Frutas e Legumes",
+        "price": 0.73,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA AROMATICA CNT 150GR",
+        "category": "Frutas e Legumes",
+        "price": 1.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 1.58,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "TOM MINI CHUCHA VERME CNT 250GR",
+        "category": "Frutas e Legumes",
+        "price": 2.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "GASPACHO SALMOREJO ALVALLE 1L",
+        "category": "Take Away",
+        "price": 4.49,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.1,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_ARU213_139334",
+    "date": "2026-07-07T17:56:00",
+    "store": "Continente CNT Oeiras Park",
+    "totalPaid": 30.97,
+    "totalDiscounts": 12.47,
+    "subtotal": 43.93,
+    "items": [
+      {
+        "name": "TORTITAS MILHO TOMATE AZEIT BIC",
+        "category": "Mercearia Doce",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA C/G.NAT.PEDRAS SALG.PET 1",
+        "category": "Soft Drinks",
+        "price": 1.78,
+        "discount": 0.88,
+        "quantity": 2
+      },
+      {
+        "name": "TISANA CAMOMILA LIMA MENTA CNT",
+        "category": "Soft Drinks",
+        "price": 1.39,
+        "discount": 0.7,
+        "quantity": 1
+      },
+      {
+        "name": "LIMPA MAQUINAS LIMAO XAU 250ML",
+        "category": "Limpeza do Lar",
+        "price": 7.98,
+        "discount": 8,
+        "quantity": 2
+      },
+      {
+        "name": "ACAI ZERO NATIVE ACAI 480ML",
+        "category": "Congelados",
+        "price": 6.34,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "IOG PED BEM-ESTAR CNT EQ 4X125G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.69,
+        "discount": 0.85,
+        "quantity": 1
+      },
+      {
+        "name": "IOG LIQ CNT MAN/COC/PIM 4X160G",
+        "category": "Laticinios/Beb. Veg.",
+        "price": 1.35,
+        "discount": 0.68,
+        "quantity": 1
+      },
+      {
+        "name": "MORTADELA BOLOGNA IGP CNT SELEC",
+        "category": "Charcutaria&Queijos",
+        "price": 2.54,
+        "discount": 1.72,
+        "quantity": 1
+      },
+      {
+        "name": "GRANOLA SALUTE AVELA PISTACIO 3",
+        "category": "Pequeno Almoco",
+        "price": 3.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BANANA",
+        "category": "Frutas e Legumes",
+        "price": 0.93,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "VODKA ERISTOFF 70CL",
+        "category": "Vinho e Espirituosas",
+        "price": 12.55,
+        "discount": 3.14,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.3,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_INU202_122006",
+    "date": "2026-07-08T17:11:00",
+    "store": "Continente",
+    "totalPaid": 7.45,
+    "totalDiscounts": 0.66,
+    "subtotal": 7.45,
+    "items": [
+      {
+        "name": "MASSA COUSCOUS GAROFALO 1KG",
+        "category": "Bens Essenciais",
+        "price": 2.49,
+        "discount": 0.66,
+        "quantity": 1
+      },
+      {
+        "name": "QJ MOZZARELLA CONTINENTE 125G",
+        "category": "Charcutaria&Queijos",
+        "price": 1.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "SULTANA CLARA CNT 200G",
+        "category": "Frutas e Legumes",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AZEITONA PRETA RODELAS OXIDADA",
+        "category": "Frutas e Legumes",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_INU206_107487",
+    "date": "2026-07-13T20:03:00",
+    "store": "Continente",
+    "totalPaid": 3.24,
+    "totalDiscounts": 0.74,
+    "subtotal": 3.34,
+    "items": [
+      {
+        "name": "PIRI PIRI EX.FOR.SAC.PALADIN 75",
+        "category": "Mercearia Salgada",
+        "price": 1.35,
+        "discount": 0.74,
+        "quantity": 1
+      },
+      {
+        "name": "MOCKTAIL MOSCOW MULE CNT 750ML",
+        "category": "Soft Drinks",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.1,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_INU206_104866",
+    "date": "2026-06-24T13:15:00",
+    "store": "Continente",
+    "totalPaid": 4.36,
+    "totalDiscounts": 0,
+    "subtotal": 4.36,
+    "items": [
+      {
+        "name": "SNACK MULT. SOUR CREAM CNT 95G",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROISSANT PAST CARECA",
+        "category": "Padaria",
+        "price": 2.97,
+        "discount": 0,
+        "quantity": 3
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "id": "FS_INU201_106212",
+    "date": "2026-06-29T15:49:00",
+    "store": "Continente",
+    "totalPaid": 5.319999999999999,
+    "totalDiscounts": 0,
+    "subtotal": 5.42,
+    "items": [
+      {
+        "name": "BAT FRIT RUFFLE YORKESO 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SNACK TAKIS SMOKIN BBQ 90G",
+        "category": "Mercearia Salgada",
+        "price": 1.74,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SUMO REF ANANAS MANGA CNT EQ 75",
+        "category": "Soft Drinks",
+        "price": 1.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.1,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "store": "Intermarché",
+    "totalPaid": 3.78,
+    "subtotal": 3.78,
+    "totalDiscounts": 0,
+    "date": "2026-05-12T19:21:00",
+    "items": [
+      {
+        "name": "BEBIDA AMENDOA S/ACU",
+        "category": "Bebidas",
+        "price": 3.78,
+        "discount": 0,
+        "quantity": 2
+      }
+    ],
+    "id": "RECEIPT_AI_1784840406346"
+  },
+  {
+    "store": "Intermarché",
+    "totalPaid": 14.52,
+    "subtotal": 14.52,
+    "totalDiscounts": 0,
+    "date": "2026-05-09T17:44:00",
+    "items": [
+      {
+        "name": "SULTANAS PRETAS 200G",
+        "category": "Mercearia",
+        "price": 1.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LIMAO KG 0.194 Kg",
+        "category": "Frescos",
+        "price": 0.48,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CLEMENTINA KG 0.770 Kg",
+        "category": "Frescos",
+        "price": 1.46,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SAUCISSE SECHE NATUR",
+        "category": "Charcutaria",
+        "price": 4.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FIAMBRE DA PERNA K 0.182 Kg",
+        "category": "Charcutaria",
+        "price": 2.91,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "COND. RIQUEZA ARGAO 4",
+        "category": "Higiene Pessoal",
+        "price": 3.79,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "id": "RECEIPT_AI_1784840537124"
+  },
+  {
+    "store": "Intermarché Super QUELUZ - MASSAMÁ",
+    "totalPaid": 58.17,
+    "subtotal": 58.17,
+    "totalDiscounts": 0,
+    "date": "2026-05-12T14:26:00",
+    "items": [
+      {
+        "name": "PÁTURAGES logurte Estilo Grego Natural 1kg",
+        "category": "Laticínios",
+        "price": 2.35,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SALUTEM Cereais Muesli Pistacio e Avelä, emb. 300 gr",
+        "category": "Mercearia",
+        "price": 3.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PORSI Mochi Avela e Chocolate 210g",
+        "category": "Congelados",
+        "price": 3.89,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "SEVEN-UP Refrigerante com Gás Regular, 1L",
+        "category": "Bebidas",
+        "price": 2.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "TRESEMMÉ Champô replenish & cleanse, 400ml",
+        "category": "Higiene Pessoal",
+        "price": 6.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PORSI Lombos de Salmão Vacuo 500g",
+        "category": "Frescos",
+        "price": 10.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PORSI Queijo Flamengo Sticks 5x20g",
+        "category": "Laticínios",
+        "price": 2.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "CEMPORCENTO Chá infusão menta bio, embalagem de 13g",
+        "category": "Mercearia",
+        "price": 0.92,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PORSI Água de Nascente 1,5l",
+        "category": "Bebidas",
+        "price": 1.6,
+        "discount": 0,
+        "quantity": 5
+      },
+      {
+        "name": "GLISS Champo Long&Sublime",
+        "category": "Higiene Pessoal",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEDRAS SALGADAS Pedras limão, garrafa de 1 litro",
+        "category": "Bebidas",
+        "price": 3.18,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "COCA-COLA Refrigerante com gás regular, pack 4 x 1l",
+        "category": "Bebidas",
+        "price": 5.96,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PORSI Queijo Mozzarela Ralado 200g",
+        "category": "Laticínios",
+        "price": 1.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "NESTLÉ Natas pasteurizadas para bater, embalagem de 200 ml",
+        "category": "Laticínios",
+        "price": 2.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PORSI Rolo de Cozinha Compacto 2 Folhas 2 Rolos",
+        "category": "Limpeza do Lar",
+        "price": 1.98,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "PORSI Leite Condensado 397g",
+        "category": "Mercearia",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "KOALA Polpa de maracujá em lata, emb. 565g",
+        "category": "Mercearia",
+        "price": 4.29,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "id": "RECEIPT_AI_1784840803719"
+  },
+  {
+    "id": "FS_AAC224_000639",
+    "date": "2026-07-25T21:54:00",
+    "store": "Continente MCH Cascais",
+    "totalPaid": 27.86,
+    "totalDiscounts": 7.19,
+    "subtotal": 79.59,
+    "items": [
+      {
+        "name": "SEGREDOS AVES MARGAO FR 50G",
+        "category": "Mercearia Salgada",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FUSILLI PARMES CONTINENTE 150G",
+        "category": "Mercearia Salgada",
+        "price": 1.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MAGGI SAUCY NOODLES TERIYAKI",
+        "category": "Mercearia Salgada",
+        "price": 1.49,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "TORT MIL BICENT COG/TRUF/PAR",
+        "category": "Mercearia Doce",
+        "price": 3.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS COCA COLA 1L",
+        "category": "Soft Drinks",
+        "price": 4.47,
+        "discount": 0,
+        "quantity": 3
+      },
+      {
+        "name": "REF C/ GAS SUMOL ECLIPSE 1L SDR",
+        "category": "Soft Drinks",
+        "price": 0.99,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "REF.C/GAS SEVEN UP ZERO MINT 1L",
+        "category": "Soft Drinks",
+        "price": 0.99,
+        "discount": 0.3,
+        "quantity": 1
+      },
+      {
+        "name": "AGUA COCO CONTINENTE EQ 1L",
+        "category": "Soft Drinks",
+        "price": 2.29,
+        "discount": 1.15,
+        "quantity": 1
+      },
+      {
+        "name": "SUMO REF TROPICAL KALE CNT EQ 7",
+        "category": "Soft Drinks",
+        "price": 1.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "DEO ST GEL COLD SPI OLDSPI 70ML",
+        "category": "Higiene",
+        "price": 4.49,
+        "discount": 2.43,
+        "quantity": 1
+      },
+      {
+        "name": "ROLO COZ RENOVA TEXTIL PAPIER 3",
+        "category": "Limpeza do Lar",
+        "price": 2.49,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "DET MAN LOICA PESS&ORQ CNT 500M",
+        "category": "Limpeza do Lar",
+        "price": 1.59,
+        "discount": 0.8,
+        "quantity": 1
+      },
+      {
+        "name": "ESPARREGADO ESPINAFRES CNT 700G",
+        "category": "Congelados",
+        "price": 2.59,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA CARBONARA CONTINENTE 340G",
+        "category": "Congelados",
+        "price": 2.39,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOCHI COM RECHEIO CAR. SALG CNT",
+        "category": "Congelados",
+        "price": 2.99,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PIZZA SMOKEY BBQ CNT 570G",
+        "category": "Congelados",
+        "price": 3.69,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "ALMONDEGAS C/ MOLHO TOM CNT 420",
+        "category": "Congelados",
+        "price": 4.69,
+        "discount": 2.35,
+        "quantity": 1
+      },
+      {
+        "name": "AFT SUN INTENSIFICADOR BRONZE M",
+        "category": "Beleza",
+        "price": 4.99,
+        "discount": 2.5,
+        "quantity": 1
+      },
+      {
+        "name": "LOMBINHOS DE FRANGO CONTINENTE",
+        "category": "Talho",
+        "price": 2.67,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "LOMBINHOS DE FRANGO CONTINENTE",
+        "category": "Talho",
+        "price": 2.88,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ FRESCO L.DUR. MEIO GORDO CNT",
+        "category": "Charcutaria&Queijos",
+        "price": 2.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QJ CREME PHILADELPHIA 150G",
+        "category": "Charcutaria&Queijos",
+        "price": 2.29,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PEPINO CNT KG",
+        "category": "Frutas e Legumes",
+        "price": 0.81,
+        "discount": 0.13,
+        "quantity": 1
+      },
+      {
+        "name": "SALADA ICEBERG CNT EMB.200GR",
+        "category": "Frutas e Legumes",
+        "price": 0.79,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "AMENDOIM C/ MEL SAL ORIGINAIS 2",
+        "category": "Frutas e Legumes",
+        "price": 2.99,
+        "discount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "CAJU TORRADO SEM SAL CNT 175G",
+        "category": "Frutas e Legumes",
+        "price": 1.99,
+        "discount": 0.5,
+        "quantity": 1
+      },
+      {
+        "name": "CENOURA BIO 500G-PT-BIO-03",
+        "category": "Frutas e Legumes",
+        "price": 1.09,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "CROISSANT PASTELARIA CARECA 3UN",
+        "category": "Padaria",
+        "price": 2.95,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PAO FORMA ARTESENCIA BIMBO 500G",
+        "category": "Padaria",
+        "price": 2.39,
+        "discount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "RAVIOLI ABOBORA CEB.CARAM.250G",
+        "category": "Take Away",
+        "price": 2.99,
+        "discount": 1,
+        "quantity": 1
+      },
+      {
+        "name": "RAVIOLI FRANGO ASSADO ALEC.250G",
+        "category": "Take Away",
+        "price": 2.76,
+        "discount": 0.93,
+        "quantity": 1
+      },
+      {
+        "name": "Saco/Tara (Recuperação Automática)",
+        "category": "Outros",
+        "price": 0.6,
+        "discount": 0
+      }
+    ],
+    "validationError": false
+  },
+  {
+    "store": "Mercadona",
+    "totalPaid": 21.5,
+    "subtotal": 21.5,
+    "totalDiscounts": 0,
+    "date": "2026-08-16T20:03:00",
+    "items": [
+      {
+        "name": "AMENDOIM FRITO",
+        "category": "Mercearia",
+        "price": 2.3,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "AMENDOIM C/ MEL",
+        "category": "Mercearia",
+        "price": 1.15,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "FUSSION MANGA",
+        "category": "Bebidas",
+        "price": 1.85,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "QUEIJO CREME TOSTAD",
+        "category": "Laticínios",
+        "price": 1.75,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOLHO CARBONARA",
+        "category": "Mercearia",
+        "price": 1.65,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "TOALHITAS LIMPAÓCULO",
+        "category": "Outros",
+        "price": 1,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "YAKISOBA SOJA COPO",
+        "category": "Mercearia",
+        "price": 1,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MOZZARELLA",
+        "category": "Laticínios",
+        "price": 2,
+        "discount": 0,
+        "quantity": 2
+      },
+      {
+        "name": "HUMMUS CLASSIC",
+        "category": "Frescos",
+        "price": 1.2,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BOL RECH CHOCO %",
+        "category": "Mercearia",
+        "price": 1.55,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "MAC-CHEESE",
+        "category": "Mercearia",
+        "price": 1.35,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATA CHILI LIMA",
+        "category": "Mercearia",
+        "price": 1.2,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "PÃO F. BRIOCHE",
+        "category": "Padaria",
+        "price": 2.3,
+        "discount": 0,
+        "quantity": 1
+      },
+      {
+        "name": "BATATAS QUEIJO/CEBO",
+        "category": "Mercearia",
+        "price": 1.2,
+        "discount": 0,
+        "quantity": 1
+      }
+    ],
+    "id": "RECEIPT_AI_1786909956127"
+  }
+]

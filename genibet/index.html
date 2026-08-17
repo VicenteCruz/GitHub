@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TeamTracker Pro | Gestão de Alocação</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="dark-theme">
+    <div id="app">
+        <!-- Auth Overlay -->
+        <div id="auth-overlay" class="overlay">
+            <div class="glass-card auth-card">
+                <h1>TeamTracker<span>Pro</span></h1>
+                <p>Introduza as suas credenciais para aceder ao sistema.</p>
+                <div class="input-group">
+                    <input type="email" id="email" placeholder="Email">
+                </div>
+                <div class="input-group">
+                    <input type="password" id="password" placeholder="Palavra-passe">
+                </div>
+                <button id="login-btn" class="primary-btn">Entrar</button>
+                <div id="auth-error" class="error-msg"></div>
+            </div>
+        </div>
+
+        <!-- Main Dashboard -->
+        <header>
+            <div class="logo">TeamTracker<span>Pro</span></div>
+            <div class="week-nav" id="week-nav">
+                <button type="button" id="prev-week" class="icon-btn week-arrow" aria-label="Semana anterior">‹</button>
+                <div class="week-nav-info">
+                    <div id="week-range-line" class="week-range-line">—</div>
+                    <div id="week-meta-line" class="week-meta-line">—</div>
+                </div>
+                <button type="button" id="next-week" class="icon-btn week-arrow" aria-label="Semana seguinte">›</button>
+            </div>
+            <nav>
+                <button class="tab-btn active" data-tab="tab1">Alocação de Equipas</button>
+                <button class="tab-btn" data-tab="tab2">Trabalhos por Local</button>
+            </nav>
+            <div class="user-info">
+                <button id="clear-btn" class="icon-btn danger-btn hidden">Limpar</button>
+                <button id="save-header-btn" class="primary-btn sm-btn hidden">Guardar</button>
+                <span id="user-role-badge" class="badge">Viewer</span>
+                <button id="logout-btn" class="icon-btn">Sair</button>
+            </div>
+        </header>
+
+        <main>
+            <!-- Tab 1: Master Tracker -->
+            <section id="tab1" class="tab-content active">
+                <div class="table-container glass-card">
+                    <div class="table-header">
+                        <h2>Master Tracker Semanal</h2>
+                        <div class="legend legend-swatches" aria-hidden="true">
+                            <span class="swatch swatch-s1"><i></i> Sala</span>
+                            <span class="swatch swatch-task"><i></i> Tarefa</span>
+                        </div>
+                    </div>
+                    <div class="scroll-wrapper sheet-scroll">
+                        <table id="master-table" class="sheet-table">
+                            <thead>
+                                <tr id="header-teams">
+                                    <th class="sticky-col sheet-corner" rowspan="2">Dia</th>
+                                    <!-- Dinamicamente gerado -->
+                                </tr>
+                                <tr id="header-members">
+                                    <!-- Dinamicamente gerado -->
+                                </tr>
+                            </thead>
+                            <tbody id="master-body">
+                                <!-- Dias da semana -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab 2: Operational Tracker -->
+            <section id="tab2" class="tab-content">
+                <div class="table-container glass-card">
+                    <div class="table-header">
+                        <h2>Tracker Operacional (SALA 1, SALA 2, SALA 3)</h2>
+                    </div>
+                    <div class="scroll-wrapper sheet-scroll">
+                        <table id="ops-table" class="sheet-table sheet-table-ops">
+                            <thead>
+                                <tr id="ops-header">
+                                    <th class="sticky-col">Dia</th>
+                                    <!-- Colunas de Locais dinâmicas -->
+                                </tr>
+                            </thead>
+                            <tbody id="ops-body">
+                                <!-- Linhas por dia -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="save-bar hidden" id="save-bar">
+            <p>Existem alterações não guardadas.</p>
+            <button id="save-btn" class="primary-btn">Guardar Alterações</button>
+        </footer>
+
+        <!-- Popup: definir tarefa da sala quando há alocação sem descrição operacional -->
+        <div id="room-task-overlay" class="overlay overlay-modal hidden" role="dialog" aria-modal="true"
+            aria-labelledby="room-task-heading">
+            <div class="glass-card room-task-card">
+                <h2 id="room-task-heading">Tarefa nesta sala</h2>
+                <p id="room-task-sub" class="room-task-sub"></p>
+                <label class="room-task-label" for="room-task-textarea">Descrição do trabalho neste dia</label>
+                <textarea id="room-task-textarea" class="room-task-textarea" rows="4"
+                    placeholder="Ex.: montagem, revisão de stocks…"></textarea>
+                <p id="room-task-err" class="room-task-err hidden"></p>
+                <div class="room-task-actions">
+                    <button type="button" id="room-task-cancel" class="icon-btn">Mais tarde</button>
+                    <button type="button" id="room-task-save" class="primary-btn sm-btn room-task-save-btn">Guardar
+                        tarefa</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Popup: Selecionar Sala (para quando há muitas opções) -->
+        <div id="room-picker-overlay" class="overlay overlay-modal hidden" role="dialog" aria-modal="true">
+            <div class="glass-card picker-card">
+                <h2>Selecionar Sala</h2>
+                <p class="picker-sub">Escolhe a sala para esta alocação</p>
+                <div id="room-picker-grid" class="picker-grid">
+                    <!-- Dinamicamente gerado -->
+                </div>
+                <div class="picker-actions">
+                    <button type="button" id="room-picker-clear" class="icon-btn danger-btn sm-btn">Remover</button>
+                    <button type="button" id="room-picker-cancel" class="icon-btn sm-btn">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Firebase SDKs included via module script -->
+    <script type="module" src="app.js"></script>
+</body>
+
+</html>

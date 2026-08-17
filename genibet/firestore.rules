@@ -1,0 +1,38 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function userDocPath() {
+      return /databases/$(database)/documents/users/$(request.auth.uid);
+    }
+
+    function userRole() {
+      return exists(userDocPath()) ? get(userDocPath()).data.role : '';
+    }
+
+    function isAdmin() {
+      return request.auth != null && userRole() == 'admin';
+    }
+    
+    // Função auxiliar para verificar permissões de escrita
+    function canWrite() {
+      let role = userRole();
+      return role == 'editor' || role == 'admin';
+    }
+
+    match /users/{uid} {
+      allow read: if request.auth != null && (request.auth.uid == uid || isAdmin());
+      allow create, update, delete: if isAdmin();
+    }
+    
+    match /allocations/{week} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null && canWrite();
+    }
+    
+    match /operational_details/{week} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null && canWrite();
+    }
+  }
+}
